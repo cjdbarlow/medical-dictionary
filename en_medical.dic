@@ -1,4 +1,4 @@
-152345
+153630
     This is the dictionary file of the en_US Hunspell dictionary, modified to include:
     
     - OpenMedSpel by R. Robinson of e-MedTools <http://www.e-medtools.com/openmedspel.html>
@@ -11,7 +11,7 @@
         R. Robinson <info@e-medtools.com>, 
             Rajasekharan N. <https://plus.google.com/u/0/+Rajasekharan-N/>, 
                 Glutanimate <https://github.com/Glutanimate>,
-                    Chrisjake <https://github.com/Chrisjake>
+                    C Jake Barlow <https://github.com/cjdbarlow>
     
     License: GPLv3. There should be a copy of all of this licenses included with 
     every distribution of this dictionary.
@@ -37,6 +37,7 @@
 2th/tc
 3,4-dihydroxyphenylalanine
 3/nm
+340B
 3rd/p
 3tc
 3th/tc
@@ -48,6 +49,7 @@
 5-hydroxytryptamine
 5-iododeoxyuridine
 5/nm
+503B
 5th/pt
 6,8-thioctic
 6-hydroxydopamine
@@ -141,6 +143,7 @@ abaft
 Abagael/M
 Abagail/M
 abalone/SM
+abaloparatide
 abandon/LGDRS
 abandoner/M
 abandonment/SM
@@ -264,9 +267,11 @@ Abe/M
 abeam
 abearance
 abecarnil
+Abecma
 abegg's
 abei
 Abel/M
+abelacimab
 Abelard/M
 Abelcet
 abele
@@ -277,6 +282,7 @@ Abelson
 Abelson/M
 abembryonic
 Abenol
+abeparvovec
 abequose
 abequosyltransferase
 abercrombie's
@@ -548,6 +554,7 @@ abruptio
 abruptiones
 abruptness/SM
 abrus
+Abrysvo
 ABS
 abs-
 abs.
@@ -1645,6 +1652,7 @@ acopic
 acoprosis
 acoprous
 acops
+acoramidis
 acorea
 acoria
 acorin
@@ -1680,6 +1688,7 @@ acoustics/M
 acoustigram
 acoustogram
 Acova
+acoziborole
 ACP
 AcQtrack
 acquaint/GASD
@@ -1965,6 +1974,7 @@ actinin
 actinioides
 actinism
 actinium
+actinium-225
 actinium/MS
 actino
 actinobacilli
@@ -2204,6 +2214,7 @@ adactyly
 adage/MS
 Adagen
 adagio/S
+adagrasib
 Adah/M
 Adair
 Adair/M
@@ -2273,6 +2284,7 @@ adatom
 Adavite
 adaxial
 adbent's
+Adbry
 ADC
 ADCC
 Adcirca
@@ -2586,6 +2598,7 @@ adieu/S
 adigeon
 Adina/M
 adine
+adintrevimab
 adip
 adipamidase
 adipate
@@ -2697,6 +2710,7 @@ admedian
 admen
 admiinistrator
 admiitendo
+admilparant
 adminicle
 adminicula
 adminicular
@@ -2927,10 +2941,13 @@ adsorptive
 adsorptive/Y
 adst.
 adsternal
+Adstiladrin
 adsunt
 adsura
 adterminal
 adtorsion
+aducanumab
+Aduhelm
 adularia
 adulate/GNDSX
 adulation/M
@@ -3314,6 +3331,7 @@ aeve
 AF
 afage
 AFAIK
+afamitresgene
 afar/S
 afatine
 afava-micheli
@@ -3416,6 +3434,7 @@ afibrillar
 afibrinogenaaemia
 afibrinogenaemia
 afibrinogenemia
+aficamten
 aficionado/MS
 afield
 afin
@@ -3445,6 +3464,7 @@ afraid/U
 aframomum
 Afresa
 afresh
+Afrezza
 Africa/M
 African
 African/MS
@@ -3551,6 +3571,7 @@ agamomermis
 Agamonema
 agamont
 agamous
+Agamree
 agan
 agana
 aganglionic
@@ -3616,6 +3637,7 @@ agenosomus
 agent/A
 agent/AMS
 agented
+agentic
 agenting
 agentive
 ageometria
@@ -3997,6 +4019,7 @@ aimer/M
 Aimil/M
 aimless/YP
 aimlessness/MS
+Aimovig
 ain
 ain't
 Aindrea/M
@@ -4095,6 +4118,7 @@ Ajay/M
 Ajellomyces
 ajmaline
 ajocchi's
+Ajovy
 ajowan
 ajuga
 ajutage
@@ -4785,6 +4809,7 @@ algovascular
 algum
 alhagi
 Alhambra/M
+Alhemo
 Alhena/M
 Ali/MS
 Alia/M
@@ -5482,6 +5507,7 @@ alpha-1-antitrypsin
 alpha-adrenergic
 alpha-adrenoreceptor
 alpha-fetoprotein
+alpha-gal
 alpha-helical
 alpha-helix
 alpha-ketoglutaric
@@ -5502,12 +5528,17 @@ alphabetizer/M
 Alphacaine
 Alphaderm
 Alphadrol
+AlphaFold
+AlphaFold2
+AlphaFold3
 Alphagan
+AlphaGenome
 alphaherpesvirinae
 Alphalin
 alphalytic
 alphamethyldopa
 alphamimetic
+AlphaMissense
 Alphamul
 alphanaphthol
 Alphanate
@@ -5515,6 +5546,7 @@ AlphaNine
 alphanumeric/S
 alphanumerical/Y
 alphaprodine
+AlphaProteo
 Alphard/M
 Alpharma
 Alphastar
@@ -5657,6 +5689,7 @@ altruist/SM
 altruistic
 altruistically
 altum
+Altuviiio
 Alu
 ALU
 aludel
@@ -5758,6 +5791,7 @@ Alwin/M
 Alwyn/M
 Alyce/M
 Alyda/M
+Alyftrek
 alyltransferase
 alymphia
 alymphocytosis
@@ -6362,6 +6396,7 @@ amitriptyline
 amitrole
 Amity/M
 amity/SM
+amivantamab
 AML
 amlexanox
 amlodipine
@@ -6744,6 +6779,7 @@ Amsterdam
 Amsterdam/M
 Amsustain
 amt
+Amtagvi
 amter
 Amtrak/M
 amu/S
@@ -6764,9 +6800,11 @@ amusingness/M
 Amussat's
 AmVaz
 Amvisc
+Amvuttra
 AMWA
 Amway/M
 amwood
+AMX0035
 amy
 Amy/M
 amychophobia
@@ -6864,6 +6902,7 @@ amyous
 amyris
 amys
 Amytal
+Amyvid
 amyxia
 amyxorrhea
 amyxoviridae
@@ -7325,6 +7364,7 @@ Andean/M
 andects
 Andee/M
 Andeee/M
+Andembry
 Anderea/M
 Andernach
 andernach's
@@ -7341,6 +7381,8 @@ Andersson
 Andes
 andesine
 andesite
+andexanet
+Andexxa
 Andi/M
 andicota
 Andie/M
@@ -7979,6 +8021,7 @@ anidrotic
 anidulafungin
 anific
 aniformes
+anifrolumab
 anil
 anile
 anileridine
@@ -8289,6 +8332,7 @@ annuum
 Anny/M
 ano
 anoa
+ANOCA
 Anocentor
 anochromasia
 anociassociation
@@ -8507,6 +8551,7 @@ ansporoblastina
 anssen
 Anstice/M
 ansumys
+ansuvimab
 answer/MZGBSDR
 answerable/U
 answered/U
@@ -9614,6 +9659,7 @@ anyway/S
 anywhere/S
 anywise
 Anzemet
+Anzupgo
 ao-pau
 AOA
 AOL/M
@@ -9886,6 +9932,7 @@ apis
 apish/YP
 apishness/M
 apisination
+apitegromab
 apitoxin
 apituitarism
 Apium
@@ -9967,6 +10014,7 @@ Apodol
 apodous
 apodus
 ApoE
+APOE4
 apoensis
 apoenzyme
 apoferritin
@@ -10325,6 +10373,7 @@ apraxic
 aprepitant
 Apresazide
 Apresoline
+Apretude
 Apri
 apricot
 apricot/MS
@@ -10335,6 +10384,7 @@ Aprilette/M
 Aprise
 Apriso
 aprobarbital
+aprocitentan
 aprocta
 aproctia
 aproctous
@@ -10569,6 +10619,7 @@ Arago
 aragraphical
 araguato
 Araguaya/M
+Arakoda
 Aral/M
 Aralast
 Araldo/M
@@ -10960,6 +11011,7 @@ Aretaeus
 aretemidis
 Aretha/M
 aretology
+Arexvy
 Arey's
 areye
 arf
@@ -11072,6 +11124,8 @@ arhinencephalia
 arhinia
 Arhythmia
 Ari/M
+ARIA-E
+ARIA-H
 aria/F
 aria/SM
 ariaceae
@@ -11109,6 +11163,7 @@ arillode
 arillus
 Arilvax
 Arimidex
+arimoclomol
 arin
 Arin/M
 arinella
@@ -11174,6 +11229,7 @@ ark/MS
 Arkansan/MS
 arkansas
 Arkansas/M
+arketamine
 Arkhangelsk/M
 arkia
 Arkin
@@ -12336,6 +12392,7 @@ assemble/ADSREG
 assembled/U
 assembler/EMS
 assemblies/A
+assembloid/S
 assembly/EAM
 Assembly/MS
 assemblyman/M
@@ -12467,6 +12524,7 @@ astaxanthin
 asteatodes
 asteatosis
 asteatotic
+astegolimab
 astel
 astelia
 asteliaceae
@@ -12673,6 +12731,7 @@ asuarinaceae
 asulfurosis
 Asunción/M
 asunder
+asundexian
 asura
 asurement
 asus
@@ -12937,8 +12996,10 @@ athyrotic
 Athysanus
 ati/S
 atical
+aticaprant
 aticus
 atidae
+atidarsagene
 atifa
 atifrons
 ATIII
@@ -12948,6 +13009,7 @@ atin
 atina
 ation/F
 ATIR
+atirmociclib
 atirostral
 Ativan
 ative/F
@@ -13017,10 +13079,12 @@ atocentesis
 atochrome
 atocia
 atocism
+atogepant
 atoid
 atokous
 atolide
 atoll/MS
+atoltivimab
 atolysis
 atom
 atom/SM
@@ -13099,6 +13163,7 @@ atransferrinaemia
 atransferrinemia
 atransferrinemic
 atraphaxis
+atrasentan
 atrata
 atratus
 atraumatic
@@ -13295,6 +13360,8 @@ attollent
 attorn/L
 attorney/SM
 attorno
+ATTR
+ATTR-CM
 attract
 attract/BSDGV
 attractant
@@ -13317,10 +13384,12 @@ attributive/SY
 attrite/N
 attrition/MS
 attritional
+Attruby
 Attucks
 attune/SDG
 atty
 atum
+atumelnant
 atur
 ature
 atus
@@ -13362,6 +13431,7 @@ aubrietia
 Aubry/M
 auburn/SM
 aucalis
+Aucatzyl
 auchenium
 Auchmeromyia
 Auckland/M
@@ -13464,6 +13534,7 @@ augmenti
 Augmentin
 augmentor
 augnathus
+Augtyro
 augur/GDMS
 augurous
 augury/SM
@@ -13641,6 +13712,7 @@ auspiciousnesses
 Auspitz
 Aussie/MS
 aussier's
+Austedo
 Austen/M
 austere/TYRP
 austereness/M
@@ -13798,6 +13870,7 @@ autofundoscopy
 autogamous
 autogamy/S
 autogel
+autogene
 autogeneic
 autogenesis
 autogenetic
@@ -13853,6 +13926,7 @@ autokinesis
 autokinetic
 autolavage
 autolesion
+autoleucel
 autoleukoagglutinin
 AutoLITT
 autoloader
@@ -13991,6 +14065,7 @@ autosuggestion
 AutoSuture
 autosynthesis
 Autotelic
+autotemcel
 autotemnous
 autotherapy/S
 autothromboagglutinin
@@ -14033,6 +14108,7 @@ autumnal/Y
 autumnalis
 autyberry
 Auvard
+Auvelity
 Auvray
 aux
 auxanogram
@@ -14074,6 +14150,8 @@ AV
 av/ZR
 Ava/M
 avaceae
+avacincaptad
+avacopan
 Avage
 avahi
 avail/BSZGRD
@@ -14087,6 +14165,7 @@ availing/U
 Avakine
 avalanche
 avalanche/MGSD
+avalglucosidase
 Avalide
 Avalon/M
 Avalox
@@ -14102,6 +14181,7 @@ avandula
 Avanir
 avant
 Avanta
+avapritinib
 Avapro
 avarice/SM
 avaricious/PY
@@ -14113,6 +14193,7 @@ avast/S
 Avastin
 avatar/MS
 avatera
+avatrombopag
 avaunt
 avaunt/S
 avc
@@ -14249,6 +14330,7 @@ AVLB
 Avlosulfon
 avm
 AVMA
+Avmapki
 AVN
 avobenzone
 avocado/MS
@@ -14296,6 +14378,7 @@ AVT
 avularia
 avulse/DGN
 avuncular
+avutometinib
 aw/GD
 AWACS
 await/SDG
@@ -14321,6 +14404,7 @@ awfuller
 awfullest
 awfulness/SM
 awhile/S
+Awiqli
 awkward/PRYT
 awkwardness/MS
 awl/MS
@@ -14358,6 +14442,7 @@ axial
 axial/Y
 axialis
 axiation
+axicabtagene
 Axid
 axifugal
 axile
@@ -14498,6 +14583,7 @@ ays
 ayuntamiento
 Ayurveda
 Ayurvedic
+Ayvakit
 AZ
 azabon
 azacitidine
@@ -14535,6 +14621,7 @@ azeotrope
 azeotropic
 azeotropy
 Azerbaijan/M
+azetukalner
 azficel
 azhdarchidae
 azid
@@ -14661,6 +14748,7 @@ b1E
 b1F
 b1H
 b2-microglobulin
+B7-H3
 BA
 Ba/M
 baa/SDG
@@ -15174,6 +15262,7 @@ Balbiani/M
 Balboa/M
 balboa/SM
 balbuties
+balcinrenone
 balcony/MSD
 Bald/MR
 bald/P
@@ -15279,6 +15368,7 @@ balneotherapeutics
 balneotherapy/S
 Balnetar
 baloney/SM
+baloxavir
 balsa/MS
 balsalazide
 balsam
@@ -15292,6 +15382,7 @@ balsamodendrum
 balsamorrhiza
 balsamum
 balser's
+balstilimab
 balstoni
 Balthazar/M
 Baltic
@@ -15319,6 +15410,7 @@ bambusa
 bambuterol
 Bamby/M
 BamHI
+bamlanivimab
 bamnidazole
 BAN
 Ban/M
@@ -15858,6 +15950,7 @@ baryta
 baryto
 barytosis
 barytum
+barzolvolimab
 bas/DRSTG
 bas/S
 basad
@@ -16130,6 +16223,7 @@ batman/M
 Batman/M
 batmen
 BATO
+batoclimab
 batoidei
 batomys
 baton/SM
@@ -16214,6 +16308,7 @@ bawl/SGDR
 bawler/M
 bawrel
 Bax/M
+baxdrostat
 Baxie/M
 baxter
 Baxter/M
@@ -16278,6 +16373,7 @@ bcg
 BCGF
 BCI
 bciss
+BCMA
 bcnu
 bcock's
 BCP
@@ -16442,6 +16538,7 @@ bebleed
 beblood
 bebloody
 bebop/MS
+bebtelovimab
 Bebulin
 bec
 becalm/GDS
@@ -16725,6 +16822,7 @@ Bela/M
 belabor/MDSG
 belamcanda
 belangeri
+belantamab
 Belarus
 belate/D
 belated/PY
@@ -16854,6 +16952,7 @@ below/S
 beloxamide
 Belsey
 Belshazzar/M
+Belsomra
 belt
 belt/GSMD
 belted/U
@@ -16872,12 +16971,15 @@ belzebul
 belzebuth
 Belzer
 belzer's
+belzutifan
 beman
+bemarituzumab
 bemegride
 Beminal
 bemire/SDG
 bemmeleni
 bemoan/GDS
+bempedoic
 bemuse/GSDL
 bemused/Y
 bemusement/SM
@@ -17020,6 +17122,7 @@ benoxaprofen
 benoxinate
 Benoxyl
 benperidol
+benralizumab
 Bensaude
 benserazide
 Bensley's
@@ -17159,11 +17262,13 @@ Beograd's
 Beowulf/M
 Bepadin
 bephenium
+bepirovirsen
 bepridil
 bequeath/GSD
 bequeaths
 bequest/MS
 bequosyltransferase
+Beqvez
 ber
 Ber/MG
 beractant
@@ -17186,6 +17291,7 @@ bereavement
 bereavement/MS
 bereft
 Bereitschaftspotential
+beremagene
 Berenice/M
 Berens
 Beret/M
@@ -17308,6 +17414,7 @@ Bernstein/M
 Berny/M
 Berocca
 beroe
+berotralstat
 Berra/M
 berretta
 Berri/M
@@ -17397,6 +17504,7 @@ bespeak/SG
 bespectacled
 bespoke
 bespoken
+Besremi
 Bess
 Bessel/M
 Besselaar
@@ -17507,6 +17615,7 @@ bethink/GS
 Bethlehem/M
 bethought
 Bethune
+betibeglogene
 betide/GSD
 betimes
 Betimol
@@ -17588,19 +17697,24 @@ bewilderment/SM
 bewitch/LGDS
 bewitching/Y
 bewitchment/SM
+bexagliflozin
 bexarotene
+bexotegrast
 Bextra
 Bexxar
 bey/MS
+Beyfortus
 beyond/S
 bezafibrate
 bezel/MS
 Bezielle
+bezlotoxumab
 bezoar
 bezoardic
 bezoarticus
 Bezold
 bezold's
+bezuclastinib
 bezziana
 bf
 BFP
@@ -17940,6 +18054,7 @@ biker/M
 bikh
 bikini/SMD
 Biko/M
+Biktarvy
 Bil/MY
 bilabe
 bilabial
@@ -18091,6 +18206,7 @@ bimatoprost
 bimaxillary
 bimbo/MS
 bimedial
+bimekizumab
 bimetal
 bimetallic/S
 bimetallism/MS
@@ -18103,6 +18219,7 @@ bimolecular/Y
 bimonthly/S
 bimucosa
 bimuscular
+Bimzelx
 bin-
 bin/SM
 binangle
@@ -18201,6 +18318,7 @@ bioautography/S
 bioavailability/S
 bioavailable
 bioavtivities
+biobank/S
 bioblast
 Biobon
 BiobraneII
@@ -18447,6 +18565,8 @@ biopoiesis
 biopolymer/S
 biopotency
 biopotential
+bioprinted
+bioprinting
 bioprocess/G
 bioprosthesis
 bioprosthetic
@@ -18495,6 +18615,7 @@ biose
 Biosense
 bioseries
 Bioshaf
+biosimilar/S
 biosis
 Biosite
 BioSling
@@ -18899,6 +19020,7 @@ biz/M
 bizarre
 bizarre/YSP
 bizarreness/M
+Bizengri
 Bizet/M
 bizia
 bizygomatic
@@ -19056,6 +19178,7 @@ blankophore
 blanquillo
 Blanton/M
 Blantyre/M
+blarcamesine
 blare/DSG
 blarina
 blarinella
@@ -19114,6 +19237,7 @@ blastogenesis
 blastogenetic
 blastogenic
 blastogeny
+blastoid/S
 blastoidea
 Blastokinin
 blastolysis
@@ -19238,6 +19362,7 @@ blennothorax
 blennuria
 blenny
 Blenoxane
+Blenrep
 bleomycin
 Bleph
 Blephamide
@@ -19287,6 +19412,7 @@ bletting
 bleuâtres
 Blevins/M
 blew
+bleximenib
 bleyme
 Bligh/M
 blight/GSMDR
@@ -19545,6 +19671,7 @@ bluffness/MS
 bluing/M
 bluish/P
 bluishness/M
+Blujepa
 BluLaze
 Blum
 Blum/M
@@ -19598,10 +19725,12 @@ BMR
 BMS
 BMW/M
 BNA
+BNCT
 bnepos
 bner's
 bnodation
 BNP/K
+BNT162b2
 BO
 Bo/MRZ
 BOA
@@ -19904,6 +20033,7 @@ bombycis
 bombykol
 Bombyx
 bombé
+bomedemstat
 bona
 Bonaccolto
 bonae
@@ -20278,11 +20408,13 @@ botanology
 botanomancy
 botany/S
 botany/SM
+botaretigene
 BotB
 botch/R
 botch/SRDGZ
 botcher/M
 bote
+botensilimab
 botfly/M
 botfly/S
 both/ZR
@@ -20543,6 +20675,8 @@ bozo/SM
 Bozzolo's
 Boötes
 BPA
+BPaL
+BPaLM
 BPH
 bpi
 BPIG
@@ -20797,6 +20931,7 @@ Braille/GDSM
 braillewriter
 brain
 Brain's
+brain-computer
 brain-dead
 brain/GSDM
 Brain/M
@@ -21124,6 +21259,7 @@ Brennen/M
 Brenner
 Brenner/M
 brensis
+brensocatib
 Brent/M
 Brenton/M
 brenz-
@@ -21196,6 +21332,10 @@ brewery/MS
 brewing/M
 brewpub/S
 Brewster/M
+Brexafemme
+brexanolone
+brexucabtagene
+Breyanzi
 Brezhnev/M
 Bria/M
 Brian/M
@@ -21298,6 +21438,7 @@ Brigida/M
 Brigit/M
 Brigitta/M
 Brigitte/M
+brilaroxazine
 brill
 Brill's
 Brill-Zinsser
@@ -21322,6 +21463,7 @@ brimstony
 brin
 Brina/M
 brinase
+brincidofovir
 Brindisi/M
 brindle/DSM
 brine
@@ -21340,6 +21482,7 @@ brinkmanship/SM
 Brinn/M
 Brinna/M
 brinolase
+Brinsupri
 Brinton's
 Briny/M
 briny/PTSR
@@ -21402,6 +21545,7 @@ brittleness/MS
 Brittne/M
 Brittney/M
 Brittni/M
+Briumvi
 BRK
 Brnaba/M
 Brnaby/M
@@ -21500,6 +21644,7 @@ bromatotoxin
 bromatotoxismus
 bromatoxism
 bromazepam
+bromazolam
 bromchlorphenol
 bromcresol
 Bromday
@@ -21873,6 +22018,7 @@ bruisewort
 bruissement
 bruit
 bruit/DSG
+Brukinsa
 Brumar
 brumbacki
 Brumidi/M
@@ -22270,6 +22416,7 @@ bulbous
 bulboventricular
 bulbus
 bulesis
+bulevirtide
 Bulfinch/M
 Bulganin/M
 Bulgaria/M
@@ -22437,6 +22584,7 @@ Bunostomum
 bunsen
 Bunsen/SM
 bunt/GJZDRS
+buntanetap
 bunting/M
 bunya-bunya
 Bunyamwera
@@ -22564,6 +22712,7 @@ Burnside/MS
 burnt
 burnt/YP
 Buro
+burosumab
 Burow
 burow's
 burp/SGMD
@@ -22833,6 +22982,7 @@ bygone/S
 bylaw/SM
 byline/RSDGM
 byliner/M
+Bylvay
 Bymixer
 BYOB
 Byosystems
@@ -22917,6 +23067,7 @@ C5b
 C5b67
 C5b678
 C5b6789
+C9orf72
 ca
 CA
 Ca++
@@ -22941,6 +23092,7 @@ cabbed
 cabbing
 cabby's
 cabdriver/SM
+Cabenuva
 caber/M
 cabergoline
 Cabernet/M
@@ -22962,6 +23114,7 @@ caboodle/SM
 caboose/MS
 cabot/M
 Cabot/M
+cabotegravir
 Cabrera/M
 Cabrini/M
 cabriolet/MS
@@ -23055,6 +23208,7 @@ Cadiz/M
 cadmiosis
 cadmium
 cadmium/MS
+cadonilimab
 CadPlan
 cadre/SM
 caduca
@@ -23097,6 +23251,7 @@ caffeinic
 caffeinism
 caffeol
 Caffey/M
+cafraglutide
 caftan/SM
 café
 café/MS
@@ -23113,6 +23268,7 @@ caginess/MS
 Cagney/M
 cago
 Cagot
+cagrilintide
 CAH
 cahinca
 Cahn
@@ -23650,6 +23806,7 @@ camiodarone
 camion/M
 camisole
 camisole/MS
+camizestrant
 Cammann's
 cammed
 Cammi/M
@@ -23724,12 +23881,14 @@ campylobacter
 Campylobacteriosis
 Campyvax
 CampyVax
+camrelizumab
 Camry/M
 camshaft/SM
 camsylate
 Camurati
 Camurati-Engelmann
 Camus/M
+Camzyos
 can
 can't
 Can/M
@@ -23852,6 +24011,7 @@ candidin
 candidly/U
 candidness/SM
 candidosis
+Candidozyma
 candidum
 candiduria
 Candie/M
@@ -23901,6 +24061,7 @@ cankerous
 canna
 cannabidaceae
 cannabidiol
+cannabigerol
 cannabinoid/S
 cannabinol
 cannabis
@@ -24147,9 +24308,11 @@ capituli
 capitulorum
 capitulum
 capitus
+capivasertib
 Capla
 Caplan/M
 caplet/S
+capmatinib
 capneic
 Capno
 Capnocytophaga
@@ -24299,8 +24462,11 @@ capulin
 capuride
 caput
 Caputo/M
+Capvaxive
 Capzasin
 CAR
+CAR-M
+CAR-NK
 Car/MNY
 car/ZGSMDR
 Cara/M
@@ -24427,6 +24593,7 @@ Carbomedics
 carbomer
 carbomycin
 carbon
+carbon-ion
 carbon/MS
 carbonaceous
 carbonaemia
@@ -24673,6 +24840,7 @@ cardiomegaly/S
 cardiomelanosis
 CardioMEMS
 cardiomentopexy
+cardiometabolic
 cardiometer
 cardiometric
 cardiometry/S
@@ -24688,6 +24856,7 @@ cardionatrin
 cardionector
 cardionephric
 cardioneural
+cardioneuroablation
 cardioneurosis
 cardiopaludism
 CardioPass
@@ -24759,6 +24928,7 @@ cardiovalvulotome
 cardiovalvulotomy
 cardiovascular
 CardioVascular
+cardiovascular-kidney-metabolic
 cardiovasculare
 cardioversion
 cardioverted
@@ -25227,6 +25397,7 @@ carvi
 carvillea/I
 carving/M
 carvone
+Carvykti
 Cary
 Cary/M
 carya
@@ -25241,6 +25412,10 @@ caryophyllaceae
 caryophyllus
 Carysomyia
 carzenide
+Cas12
+Cas12a
+Cas13
+Cas9
 casa
 casaba/SM
 Casablanca/M
@@ -25260,6 +25435,7 @@ Cascades/M
 cascara
 cascara/MS
 cascarilla
+casdatifan
 case
 case/DSJMGL
 Case/M
@@ -25287,6 +25463,7 @@ casework/ZMRS
 caseworker/M
 caseworm
 Casey/M
+Casgevy
 cash/GZMDSR
 Cash/M
 cashbook/SM
@@ -25296,9 +25473,11 @@ cashless
 cashmere/MS
 Casi/M
 Casie/M
+casimersen
 casing/M
 casino/MS
 casinycteris
+casirivimab
 cask/GSDM
 casket/SGMD
 Casodex
@@ -25310,6 +25489,7 @@ Casper/M
 Caspersson
 Caspian
 caspofungin
+CasRx
 Cass
 Cassandra/SM
 Cassandre/M
@@ -25910,6 +26090,7 @@ CCP
 ccpd
 CCSAS
 CCSC
+CCTA
 CCTV
 CCU
 CCU/S
@@ -25951,6 +26132,7 @@ cebidichthys
 cebinae
 cebocephalus
 cebocephaly
+cebranopadol
 Cebu/M
 Cebuano/M
 cebus
@@ -26026,6 +26208,7 @@ cefazolin
 cefdinir
 cefditoren
 cefepime
+cefiderocol
 cefixime
 Cefizox
 ceflatonin
@@ -26247,6 +26430,7 @@ Celtic/SM
 celtis
 celtuce
 cem
+cemdisiran
 cement
 cement/ZGMRDS
 cementa
@@ -26280,6 +26464,7 @@ cementum/SM
 cemetery/MS
 cen/S
 cenadelphus
+cenegermin
 cenesthesia
 cenesthesic
 cenesthesiopathy
@@ -26287,6 +26472,7 @@ cenesthetic
 cenesthopathy
 Cenestin
 cenicienta
+cenobamate
 cenobite/MS
 cenobitic
 cenobium
@@ -26315,6 +26501,7 @@ censure/BRSDZMG
 censurer/M
 census/SDMG
 cent/SZMR
+centanafadine
 centaur/SM
 centaurium
 Centaurus/M
@@ -26653,6 +26840,7 @@ cerebellothalamicus
 cerebellovestibular
 cerebellum/MS
 cerebellum/S
+cereblon
 cerebr
 cerebra
 cerebral
@@ -26730,6 +26918,7 @@ cerevesiae
 cerevisiae
 Cerezyme
 Cerf/M
+Cerianna
 cerianthus
 ceric
 ceriform
@@ -26738,6 +26927,7 @@ Cerithidia
 cerium
 cerium/MS
 cerivastatin
+cerliponase
 cermet
 cermet/SM
 CERN/M
@@ -26912,6 +27102,7 @@ cevadilla
 cevadine
 cevimeline
 cevitamic
+cevumeran
 cewen's
 Ceylancyclostoma
 Ceylon
@@ -26927,16 +27118,20 @@ cf
 CF
 Cf/M
 CFC
+cfDNA
 cff
 CFO
 CFT
 CFU
 cg
+cGAMP
+cGAS
 CGD
 CGF
 CGI
 cgm
 cGMP
+CGRP
 cgs
 cGy
 Ch'ang
@@ -26955,6 +27150,7 @@ Chaddock
 chaddock's
 Chaddy/M
 Chadian/S
+ChAdOx1
 Chadwick's
 Chadwick/M
 chaemiatric
@@ -27180,6 +27376,7 @@ chaotropic
 Chaoul
 chap
 chap/MS
+Chapare
 chaparral/MS
 chapbook/SM
 chapeau/MS
@@ -27375,6 +27572,7 @@ chate
 Chateaubriand
 chateaus
 Chatelier
+ChatGPT
 Chattahoochee/M
 Chattanooga/M
 chatted
@@ -28323,6 +28521,7 @@ chloruria
 chlorzoxazone
 chm
 ChM
+CHM13
 chment
 chnectopia
 chnis
@@ -29463,6 +29662,7 @@ cilantro/S
 cilastatin
 cilazapril
 cilexetil
+cilgavimab
 cili
 cilia
 cilia/M
@@ -29494,8 +29694,10 @@ Cillin
 cillo
 Cillobacterium
 cillosis
+ciloleucel
 cilostazol
 Ciloxan
+ciltacabtagene
 cimbia
 cimetidine
 Cimex
@@ -29637,6 +29839,7 @@ cionoptosis
 cionorrhaphy
 cionotome
 cionotomy
+cipaglucosidase
 cipher/MSGD
 ciphered/C
 ciphers/C
@@ -29669,6 +29872,7 @@ Circon
 circoviridae
 circovirus
 CircPlus
+circRNA
 circuit
 circuit/GSMD
 circuital
@@ -29799,6 +30003,7 @@ cisapride
 cisatracurium
 cisclomiphene
 ciseaux
+cisgender
 Cision
 cisk
 cisplatin
@@ -29825,6 +30030,7 @@ citalopram
 Citanest
 citation/SMA
 citations/I
+CITE-seq
 cite/ISDAG
 Citelli's
 citellus
@@ -30289,6 +30495,7 @@ clerk/SGYDM
 clerkship/MS
 clerodendrum
 clerosis
+clesrovimab
 clethra
 clethraceae
 Clethrionomys
@@ -30407,6 +30614,7 @@ clinostatism
 clinotherapy
 Clint/M
 Clinton/M
+ClinVar
 Clio/M
 cliometric/S
 cliometrician/S
@@ -30579,6 +30787,7 @@ clos/GD
 closantel
 close
 close/EDSRG
+closed-loop
 closed/U
 closefisted
 closely
@@ -30907,11 +31116,13 @@ COBE
 Cobefrin
 Cobelli
 cobelli's
+Cobenfy
 Cobex
 Coblation
 coble/M
 COBOL
 Cobol/M
+cobolimab
 cobra
 cobra/MS
 cobraism
@@ -31882,6 +32093,7 @@ columnella
 columnist/MS
 columnization
 columnize/GSD
+Columvi
 coluria
 colutea
 Colver
@@ -32001,6 +32213,7 @@ comic/MS
 comical/Y
 comicality/MS
 Cominform/M
+Comirnaty
 comitans
 comitant/IF
 comitantes
@@ -32524,6 +32737,7 @@ Concis.
 concise/TYRNPX
 conciseness/SM
 concision/M
+concizumab
 conclave/S
 conclination
 conclude/RSDG
@@ -33269,6 +33483,7 @@ contestable/I
 contestant/SM
 contested/U
 contextualize/GDS
+contezolid
 contg
 ContiCath
 Contigen
@@ -33492,6 +33707,7 @@ conveyancing/M
 conveyor/MS
 convict/SVGD
 conviction/MS
+Convidecia
 convince/RSDZG
 convinced/U
 convincer/M
@@ -34023,6 +34239,7 @@ coronata
 coronate/NX
 coronation/M
 coronatus
+CoronaVac
 Coronaviridae
 coronavirus
 corone/RN
@@ -34318,9 +34535,11 @@ cosalt
 Cosamin
 Cosby/M
 CoSeal
+Cosela
 cosensitize
 Cosetta/M
 Cosette/M
+cosibelimab
 cosign/SRDZG
 cosignatory/MS
 cosily
@@ -34357,6 +34576,7 @@ CosmoPlast
 cosmopolitan/SM
 cosmopolitanism/MS
 cosmos/SM
+CosMx
 Cosopt
 cosponsor/DSG
 cossack/S
@@ -34443,6 +34663,7 @@ costus
 cosyntropin
 cot
 cot/SGMD
+cotadutide
 cotameth
 cotangent/SM
 Cotara
@@ -34730,6 +34951,7 @@ covariant/S
 covariate
 covariate/SN
 covary
+Covaxin
 cove/DRSMZG
 coven/SM
 covenant/SGRDM
@@ -34760,8 +34982,11 @@ coveting/Y
 covetous/PY
 covetousness/SM
 covey/SM
+covid
+covid-19
 covington
 Coviracil
+Covishield
 cow
 cow/MDRSZG
 cowage
@@ -35240,9 +35465,12 @@ crenae
 crenate/DN
 crenelate/XGNSD
 crenelation/M
+Crenessity
+crenezumab
 crenilabrin
 crenocyte
 crenocytosis
+crenolanib
 crenulation
 creola
 Creole/MS
@@ -35414,6 +35642,7 @@ crimp/RDGS
 crimper/M
 crimson/DMSG
 Crin/M
+crinecerfont
 crines
 cringe/SRDG
 cringer/M
@@ -35443,6 +35672,10 @@ crispation
 crisper/M
 crispiness/SM
 crispness/MS
+CRISPR
+CRISPR-Cas9
+CRISPRa
+CRISPRi
 crispus
 crispy/RPT
 criss
@@ -35699,6 +35932,7 @@ croupy/TR
 croupy/TZR
 Crouzon
 crouzon's
+crovalimab
 Crow
 crow's-feet
 crow's-foot
@@ -35844,6 +36078,8 @@ crymophilic
 crymophylactic
 crymotherapy/S
 cryo
+cryo-EM
+cryo-ET
 cryoablation
 CryoAblation
 cryoablative
@@ -36051,6 +36287,7 @@ Crysti
 Crysticillin
 Crystie/M
 Crystodigin
+Crysvita
 crèche
 crèche/SM
 Cs
@@ -36072,6 +36309,7 @@ ctaginae
 ctal/A
 CTBA
 CTD
+ctDNA
 cteinophyte
 ctenitis
 cteno-
@@ -36353,6 +36591,7 @@ cuprina
 cupriuria
 cuprizone
 cuprophane
+cuproptosis
 cuprous
 cupruresis
 cupruretic
@@ -36896,6 +37135,7 @@ cyeses
 cyesis
 cyestein
 cyesthein
+Cyfendus
 Cyfluthrin
 cygnet/MS
 Cygnus/M
@@ -37215,6 +37455,7 @@ Cystoviridae
 cystyl
 Cysview
 Cytadren
+Cytalux
 cytapheresis
 cytarabine
 cytarme
@@ -37275,6 +37516,7 @@ cytodiagnostic
 cytodieresis
 cytodifferentiation
 cytodistal
+CyTOF
 cytofluorescence
 cytofluorometry
 CytoGam
@@ -37852,6 +38094,7 @@ Dania/M
 Danial/M
 Danica/M
 Danice/M
+danicopan
 Danie/M
 Daniel/SM
 Daniela/M
@@ -37893,6 +38136,7 @@ dantrolene
 Danube/M
 Danubian
 danubicus
+danuglipron
 danum
 Danville/M
 Danya/M
@@ -37915,10 +38159,12 @@ daphniphyllaceae
 daphniphyllum
 daphnism
 dapiprazole
+dapirolizumab
 dappen
 dapper/PSTRY
 dapperness/M
 dapple/SDG
+daprodustat
 dapsone
 Daptacel
 daptomycin
@@ -37927,6 +38173,7 @@ Dar/MNH
 Dara/M
 Daranide
 Daraprim
+daraxonrasib
 Darb/M
 Darbee/M
 darbepoetin
@@ -37958,6 +38205,7 @@ Dari/M
 Daria/M
 Darice/M
 Daricon
+daridorexant
 Darier/M
 darifenacin
 Darill/M
@@ -37999,8 +38247,10 @@ Darnell/M
 darner/M
 darning/M
 Daroff
+darolutamide
 Daron/M
 DARPA/M
+DARPin/S
 Darrach
 Darrel/M
 Darrell/M
@@ -38053,6 +38303,7 @@ dashiki/SM
 dashing/Y
 Dasi/M
 Dasie/M
+dasiglucagon
 dastard/MYS
 dastardliness/SM
 dastardly/P
@@ -38070,6 +38321,7 @@ dasyuromorphia
 dasyurus
 DAT
 data
+data-independent
 data/M
 database/DSMG
 datafile
@@ -38091,8 +38343,10 @@ datio
 datisca
 datiscaceae
 dative/S
+datopotamab
 dATP
 Datril
+Datroway
 DaTSCAN
 Datsun/M
 datum/MS
@@ -38168,6 +38422,7 @@ Dawson's
 Dawson/M
 dawyck
 Daxas
+daxibotulinumtoxinA
 Daxor
 Day
 Day/M
@@ -38175,6 +38430,7 @@ day/SM
 Dayalets
 daybed/S
 daybreak/SM
+Daybue
 daycare
 daycare/S
 daydream/R
@@ -38191,6 +38447,7 @@ daysack
 daytime/SM
 Dayton/M
 Daytrana
+Dayvigo
 dazadrol
 daze/DSG
 dazed/PY
@@ -38706,6 +38963,7 @@ DEF
 def/Z
 deface/LZ
 defacement/SM
+defactinib
 defaecate
 defalcate/NGXSD
 defalcation/M
@@ -38879,6 +39137,7 @@ degrade
 degrade/B
 degraded/YP
 degradedness/M
+degrader/S
 degrading/Y
 degrease
 degree/SD
@@ -38968,7 +39227,9 @@ Deladumone
 Delafield's
 Delainey/M
 Delalutin
+delamanid
 delaminate/G
+delandistrogene
 Delaney/M
 Delano/M
 delanymys
@@ -39011,6 +39272,7 @@ Delft/M
 delft/MS
 delftware/S
 Delgado/M
+delgocitinib
 Delhi
 Delhi/M
 deli/SM
@@ -39112,6 +39374,7 @@ Delphinus/M
 delphisine
 Delsym
 delta
+delta-8
 Delta/M
 delta/MS
 deltacortef
@@ -39354,6 +39617,7 @@ denervate/GND
 Deng/M
 dengue
 dengue/MS
+Dengvaxia
 Denhardt's
 Denholz
 Deni/SM
@@ -39614,6 +39878,7 @@ departmentalization/SM
 departmentalize/DSG
 departure/MS
 depauporate
+depemokimab
 Depen
 depend/B
 dependability/MS
@@ -39715,6 +39980,7 @@ depreciation/M
 depreciative/Y
 deprenyl
 depreotide
+deprescribing
 depress/DV
 depress/V
 depressant
@@ -40001,6 +40267,7 @@ derris
 derrière/S
 Derron/M
 Derry/M
+deruxtecan
 dervish/SM
 Derward/M
 Derwin/M
@@ -40301,8 +40568,10 @@ detectably/U
 detected/U
 detection/SM
 detective/MS
+Detectnet
 detector
 detector/MS
+DETECTR
 detemir
 detentes
 detention/SM
@@ -40387,7 +40656,10 @@ detumescent
 Detussin
 deuce/SDGM
 deuced/Y
+deucravacitinib
+deucrictibant
 Deursil
+deuruxolitinib
 deus
 deut
 deutan
@@ -40424,6 +40696,7 @@ deuterostome
 Deuterostomia
 deuterotocia
 deuterotoky
+deutetrabenazine
 deuthyalosome
 deuton
 deutonephron
@@ -40555,6 +40828,7 @@ dexbrompheniramine
 Dexchlor
 dexchlorpheniramine
 dexclamol
+Dexcom
 dexedrine
 Dexedrine/M
 dexes/I
@@ -40649,6 +40923,7 @@ dextroversion
 dextroverted
 dextrum
 deza
+dezaparvovec
 dezocine
 DFA
 DFDT
@@ -41412,6 +41687,8 @@ dietsiren
 Dietz/M
 Dieu
 Dieulafoy/M
+difamilast
+difelikefalin
 difenoxamide
 difenoxin
 Diff
@@ -42296,6 +42573,7 @@ Dirofilaria
 dirofilarial
 dirofilariases
 dirofilariasis
+diroximel
 dirt/MS
 dirtily
 dirtiness/SM
@@ -42875,6 +43153,7 @@ disubstituted
 disulfate
 disulfide
 disulfide/M
+disulfidptosis
 disulfiram
 disulfoton
 disulfur
@@ -42884,6 +43163,7 @@ disymmetros
 Dita
 Dita/M
 ditaeniatus
+ditan/S
 Ditate
 ditch/MRSDG
 ditched
@@ -42953,6 +43233,7 @@ divalent
 divalent/S
 divalproex
 divan/SM
+divarasib
 divaricate/N
 dive/S
 dived/M
@@ -43061,6 +43342,7 @@ dlewood
 dleya
 dlins
 dlitz
+DLL3
 DMAPN
 DMARDs
 DMBA
@@ -43072,6 +43354,7 @@ DMI
 dmiinistrator
 Dmitri/M
 dml
+dMMR
 DMPE
 DMRD
 DMRT
@@ -43387,6 +43670,7 @@ Domitian/M
 domoic
 domperidone
 domus
+domvanalimab
 don
 don't
 don/S
@@ -43399,6 +43683,7 @@ Donald/M
 Donaldson/M
 Donall/M
 Donalt/M
+donanemab
 donate/XVGNSD
 Donatello/M
 Donath
@@ -43426,7 +43711,9 @@ dong/GDMS
 dongle/S
 Donia/M
 Donica/M
+donidalorsen
 Donielle/M
+donislecel
 Donizetti/M
 Donjoy
 donkey/MS
@@ -43520,6 +43807,7 @@ Doppler/M
 Dopplers
 Dopplex
 Dopram
+Doptelet
 doqua
 Dor
 Dora/M
@@ -43680,6 +43968,7 @@ Dospan
 dossier
 dossier/MS
 dost
+dostarlimab
 Dostinex
 Dostoevsky/M
 DOT
@@ -43768,6 +44057,7 @@ douser/M
 doute
 Douvas
 Dov/MR
+Dovato
 dove/RSM
 dovecote/MS
 Dover/M
@@ -43859,6 +44149,7 @@ Doxinate
 doxology/MS
 doxorubicin
 Doxy
+doxy-PEP
 Doxychel
 Doxycin
 doxycycline
@@ -43885,6 +44176,7 @@ DPPE
 DPs
 dpt
 DPT
+DPYD
 Dr/M
 drab/YSP
 draba
@@ -44328,6 +44620,7 @@ Dscopic
 dsDNA
 Dshubba/M
 dsm
+DSM-5-TR
 dsRNA
 dss
 DST
@@ -44567,6 +44860,7 @@ Dundee/M
 dunderhead/MS
 dune/SM
 Dunedin/M
+DunedinPACE
 Dunfermline
 dung
 dung/SGDM
@@ -44647,7 +44941,9 @@ dupe/NGDRSMZ
 duper/M
 Duphalac
 Duphaston
+dupilumab
 dupion/M
+Dupixent
 dupla
 Duplay
 duplay's
@@ -44750,6 +45046,7 @@ Duricef
 during
 Durkee/M
 Durkheim/M
+durlobactam
 duroarachnitis
 Durocher/M
 Duros
@@ -44810,6 +45107,7 @@ Duttonella
 duttonii
 duty
 duty/SM
+duvakitug
 Duval/M
 Duvalier/M
 Duve
@@ -44819,6 +45117,7 @@ duvet/SM
 Duvigneaud's
 Duvoid
 DuVries
+Duvyzat
 duxes
 DVA
 DVI
@@ -45276,6 +45575,7 @@ e'er
 e's
 E's
 E-A
+e-consult/S
 e-mycin
 e-PainCare
 E.CAM
@@ -45445,6 +45745,7 @@ eavesdropper/MS
 eavesdropping
 Eb/MN
 Eba/M
+Ebanga
 ebark
 ebastine
 ebb/DSG
@@ -45462,6 +45763,7 @@ eberry
 Eberth's
 eberthella
 Eberto/M
+Ebglyss
 EBL
 Ebner
 ebner's
@@ -45679,6 +45981,7 @@ ecmnesia
 ECMO
 ecmovirus/S
 ecn
+ecnoglutide
 Eco/M
 ecocide/SM
 ecock
@@ -45721,6 +46024,7 @@ economy
 economy/MS
 Econopred
 econopsis
+ecopipam
 Ecorche
 ecori
 ecosite
@@ -45734,10 +46038,12 @@ Ecotract
 Ecotrin
 ecotropic
 Ecovia
+ECPELLA
 ecphoria/S
 ecphoriae
 ecphorize/GD
 ecphylaxis
+ECPR
 ecraseur
 ecru/SM
 ECS
@@ -46092,6 +46398,7 @@ Eeze/R
 eezewood
 EFA
 efalizumab
+efanesoctocog
 efavirenz
 efer
 efface/GDL
@@ -46123,6 +46430,7 @@ efferent/YD
 efferentes
 efferentia
 efferential
+efferocytosis
 effervesce/GD
 effervesce/GSD
 effervescence
@@ -46173,13 +46481,17 @@ effuse/XSDVGN
 effusion/M
 effusive/YP
 effusiveness/MS
+efgartigimod
 Efidac
 EFL
 eflornithine
+efpeglenatide
 Efrain/M
 Efrem/M
 Efren/M
 Efrotomycin
+efruxifermin
+efsitora
 EFT
 Efudex
 EGA/M
@@ -46387,6 +46699,7 @@ ekiri
 Ekman/M
 Ekstrom/M
 Ektachrome/M
+Ekterly
 EKY
 el/AS
 El/MY
@@ -46396,11 +46709,15 @@ elaborate/SDYPVNGX
 elaborateness/SM
 elaboration/M
 elaborators
+elacestrant
 elacin
 ELAD
+eladocagene
 Eladur
 elaeo
 elaeoptene
+elafibranor
+Elahere
 elai
 elaidate
 elaidic
@@ -46411,6 +46728,7 @@ elaio
 elaioma
 elaiometer
 elaioplast
+elamipretide
 Elan
 Elana/M
 eland/SM
@@ -46420,6 +46738,7 @@ elanochromis
 Elanor/M
 elans
 elantrine
+elaparvovec
 elapid
 Elapidae
 Elaprase
@@ -46430,6 +46749,7 @@ Elase
 elasmobranch
 elasmobranchii
 elasmobranchs
+elasomeran
 elastance
 Elastase
 elastic/I
@@ -46892,6 +47212,8 @@ eleven/HM
 elevens/S
 eleventh
 elevenths
+Elevidys
+elexacaftor
 elf/M
 elfazepam
 Elfie/M
@@ -46932,6 +47254,7 @@ Elimite
 elinin
 Elinor/M
 Elinore/M
+elinzanetant
 Eliot/M
 Elipse
 Elipten
@@ -46951,6 +47274,7 @@ elite/MPS
 Elitek
 elitism/SM
 elitist/SM
+elivaldogene
 Elixicon
 elixir
 elixir/MS
@@ -47051,6 +47375,7 @@ Elnath/M
 elneatrix
 Elnora/M
 Elnore/M
+elobixibat
 Elocon
 elocution/SM
 elocutionary
@@ -47075,6 +47400,8 @@ Elorine
 Elovac-B
 Eloxatin
 Eloy/M
+elranatamab
+Elrexfio
 Elroy/M
 els
 Elsa/M
@@ -47225,6 +47552,7 @@ embezzlement/MS
 embezzler/M
 embitter/LGDS
 embitterment/SM
+Emblaveo
 emblazon/DLGS
 emblazonment/SM
 emblem/GSMD
@@ -47392,11 +47720,13 @@ Emezine
 EMF
 emf/S
 EMG
+Emgality
 Emgel
 EMI
 emiangle
 emicalcareous
 emichorus
+emicizumab
 emictory
 emigrammus
 emigrant/MS
@@ -47515,6 +47845,7 @@ empathize/SDG
 empathy/MS
 empathy/S
 Empatic
+Empaveli
 Empedocles
 Emperion
 emperipolesis
@@ -47579,6 +47910,7 @@ empyrean/SM
 empyreuma
 empyreumata
 empyreumatic
+emraclidine
 EMS
 ems/C
 EMSAM
@@ -47655,6 +47987,7 @@ enantiomorphous
 enantiomorphs
 enantiopathic
 enaria
+enarodustat
 enarthritis
 enarthrodial
 enarthroses
@@ -47668,6 +48001,7 @@ Enbrel
 enbucrilate
 enc
 encainide
+encaleret
 encamp/LSDG
 encampment/MS
 encanthis
@@ -47687,6 +48021,7 @@ enceinte
 encelialgia
 enceliitis
 encelitis
+Encelto
 encephal
 encephala
 encephalalgia
@@ -48294,6 +48629,7 @@ Endymion/M
 endysis
 ene
 ENE
+eneboparatide
 Enecat
 enefix
 enegal
@@ -48323,6 +48659,7 @@ enfeeble/GLDS
 enfeeblement/SM
 enfilade/MGDS
 enflagellation
+Enflonsia
 enflurane
 enfold/SGD
 enforce/LDRSZG
@@ -48397,6 +48734,7 @@ enhancement/MS
 enhancer
 enhancer/M
 enharmonic
+Enhertu
 enhydric
 Enhydrina
 enia
@@ -48419,6 +48757,7 @@ Eniwetok/M
 enize
 enjambement's
 enjambment/MS
+Enjaymo
 enjoin/GSD
 enjoinder
 enjoy/GBDSL
@@ -48440,6 +48779,7 @@ enlarge/LGD
 enlargeable
 enlargement/MS
 enlarger/M
+enlicitide
 enlighten/GDSL
 enlightened/U
 enlightening/U
@@ -48453,6 +48793,7 @@ enlivenment/SM
 Enlon
 enmesh/DSLG
 enmeshment/SM
+enmetazobactam
 enmity/MS
 ennet
 enniatin
@@ -48519,6 +48860,7 @@ enrollment/SM
 Enroth's
 ens
 Ensam
+ensartinib
 ensconce/DSG
 ensemble/MS
 ensheathing
@@ -48527,6 +48869,7 @@ enshrinement/SM
 enshroud/DGS
 ENSI
 ensibilizing
+ensifentrine
 ensiform
 ensiformis
 ensign/SM
@@ -48534,6 +48877,7 @@ ensilage/DSMG
 ensis
 ensisternum
 EnSite
+ensitrelvir
 ensively
 enslave/ZGLDSR
 enslavement/MS
@@ -48542,6 +48886,7 @@ ensnare/GLDS
 ensnarement/SM
 Ensolite/M
 ensomphalus
+Enspryng
 enstrophe
 ensue/SDG
 ensure/SRDZG
@@ -48896,6 +49241,7 @@ entwicklungsmechanik
 entwine/DSG
 entylan
 entypy
+Entyvio
 enucleate/DNG
 enucleator
 Enulose
@@ -48918,6 +49264,7 @@ enuresis
 enuresis/M
 enuretic
 Envacor
+envafolimab
 envelop/ZGLSDR
 envelope/D
 envelope/MS
@@ -49032,6 +49379,7 @@ epastic
 epatomegaly
 epaulet/SM
 epaxial
+epcoritamab
 EpCS
 epediatric
 epedium
@@ -49220,6 +49568,7 @@ epididymodeferential
 epididymotomy
 epididymovasectomy
 epididymovasostomy/S
+Epidiolex
 epidural
 epidurale
 epiduralis
@@ -49245,6 +49594,7 @@ epigenesis
 epigenetic
 epigenetically
 Epigenetics
+epigenomics
 epiglottal
 epiglottectomy
 epiglottic
@@ -49506,6 +49856,7 @@ epitonic
 Epitope
 epitopes
 EpiTouch
+epitranscriptomics
 Epitrate
 epitrichial
 epitrichium
@@ -49540,9 +49891,11 @@ epizootiologic
 epizootiological
 epizootiology/S
 epizootology/S
+Epkinly
 epla
 eplerenone
 Epley
+eplontersen
 epoch/M
 epochal/Y
 epochs
@@ -49589,6 +49942,7 @@ eptatretin
 ePTFE
 eptifibatide
 eptinella
+eptinezumab
 eptonoid
 epulides
 epulis
@@ -49597,6 +49951,7 @@ epuloid
 epulosis
 epulotic
 Epzicom
+eQTL
 equability/MS
 equable/P
 equableness/M
@@ -49703,6 +50058,7 @@ equulosis
 Equus
 ER
 er's
+ER-phagy
 Er-YAG
 Er/M
 era
@@ -49733,6 +50089,7 @@ erasure/MS
 Erato/M
 Eratosthenes/M
 Eratyrus
+eravacycline
 Eraxis
 Erb/M
 erback
@@ -49780,6 +50137,7 @@ eremiomania
 eremite/MS
 eremophobia
 Erena/M
+erenumab
 ereorama
 erepsin
 eress
@@ -50079,6 +50437,7 @@ eruptivum
 erus
 ERV
 Erv/M
+Ervebo
 Ervin/M
 ErvIn/M
 Erwin/M
@@ -50352,6 +50711,7 @@ Esmaria/M
 Esmark/M
 Esme/M
 Esmeralda/M
+ESMFold
 esmium
 esmolol
 eso-
@@ -50574,6 +50934,7 @@ esthiomene
 esthouse
 estimable/I
 estimableness/M
+estimand/S
 estimate
 estimate/XDSNGV
 estimating/A
@@ -50684,6 +51045,7 @@ etching
 etching/M
 ETD
 ete/DRS
+eteplirsen
 eternal/PSY
 eternalness/SM
 eternity/SM
@@ -50691,6 +51053,7 @@ Eternod's
 eterobarb
 eterohyrax
 eteromyinae
+etesevimab
 ETEX
 etexilate
 ETF
@@ -50936,9 +51299,12 @@ etousae
 etozolin
 etra
 Etrafon
+etranacogene
+etrasimod
 etravirine
 etretinate
 etrex
+etripamil
 etrographical
 etromyzon
 Etruria/M
@@ -50960,6 +51326,7 @@ etzite
 EU
 eu-
 Eu/M
+EUA
 euadrenocorticism
 euangiotic
 Eubacteria
@@ -51223,6 +51590,7 @@ eutrophy/N
 euvolaemia
 euvolemic
 euvolia
+EV-ICD
 Ev/MN
 Eva/M
 Evac
@@ -51298,6 +51666,7 @@ evened
 evener/M
 evenhanded/YP
 evening/SM
+Evenity
 Evenki/M
 evenness/MSU
 evens
@@ -51365,6 +51734,7 @@ evildoing/MS
 evilness/MS
 evimeline
 Evin/M
+evinacumab
 evince/SDG
 eviration
 eviscerate/DGN
@@ -51373,6 +51743,8 @@ evisceration/M
 Evista
 evisticum
 Evita/M
+Evkeeza
+evobrutinib
 evocable
 evocate/NVX
 evocation
@@ -51397,8 +51769,10 @@ Evonne/M
 Evoxac
 Evra
 evret's
+Evrysdi
 evulse/DGN
 evulsio
+Evusheld
 Evvie/M
 Evvy/M
 Evy/M
@@ -51436,6 +51810,7 @@ exactitude/ISM
 exactly/I
 exactness/MSI
 exaemia
+exagamglogene
 exaggerate/DSXNGV
 exaggerated/YP
 exaggeration/M
@@ -51481,6 +51856,7 @@ exasperate/DSXGN
 exasperated/Y
 exasperating/Y
 exasperation/M
+Exblifep
 excalation
 Excalibur/M
 excarnation
@@ -51633,6 +52009,7 @@ excyclophoria
 excyclotropia
 excyst/L
 excystation
+exebacase
 exec/MS
 execrable/P
 execrableness/M
@@ -52053,6 +52430,8 @@ exposit/D
 exposition/SM
 expositor/MS
 expository
+exposome
+exposomic/S
 expostulate/DSXNG
 expostulation/M
 exposure
@@ -52409,6 +52788,7 @@ exultant/Y
 exultation/SM
 exulting/Y
 exumbilication
+exuparvovec
 exurb/MS
 exurban
 exurbanite/SM
@@ -52417,6 +52797,7 @@ exutory
 exuviae
 exuviation
 Exxon/M
+Exxua
 Eyck/M
 Eyde/M
 Eydie/M
@@ -52508,6 +52889,7 @@ Faber's
 Faber/M
 fabere
 Fabergé/M
+Fabhalta
 Fabian/S
 Fabiano/M
 Fabien/M
@@ -52725,6 +53107,7 @@ fajitas
 fake/ZGDRS
 faker/M
 fakir/SM
+Fakzynja
 falafel
 falcatae
 falcate/D
@@ -52815,6 +53198,7 @@ famotine
 famous/PY
 famously/I
 famousness/M
+famtozinameran
 Famvir
 Fan/M
 fan/S
@@ -52916,6 +53300,7 @@ farfara
 farfetchedness/M
 Fargo/M
 Farica/M
+faricimab
 farina
 farina/MS
 farinaceous
@@ -53163,9 +53548,11 @@ faveolate
 faveoli
 faveolus
 favet
+favezelimab
 favic
 favid
 FavId
+favipiravir
 Favism
 favor/ESMRDGZ
 favorable/UMPS
@@ -53228,6 +53615,7 @@ FBI
 fbs
 FCC
 fCi
+FcRH5
 FCU
 FD
 FDA
@@ -53342,6 +53730,7 @@ FedEx/M
 Fedora/M
 fedora/SM
 Fedotozine
+fedratinib
 Fedrazil
 feds
 fee/D
@@ -53472,6 +53861,7 @@ Felton's
 feltwork
 Felty/M
 felypressin
+felzartamab
 Fem
 fem/S
 female
@@ -53554,6 +53944,7 @@ fender/CM
 fendiline
 fendosal
 Fendt
+fenebrutinib
 Fenelia/M
 Fenesin
 fenestra
@@ -53712,6 +54103,7 @@ ferromagnetic
 Ferronese
 ferroportin
 ferroprotein/S
+ferroptosis
 ferrosan
 ferrosoferric
 ferrotherapy
@@ -53827,6 +54219,7 @@ fetoscopy/S
 fetotoxic
 fetouterine
 Fetoxylate
+Fetroja
 fetter's
 fetter/UGSD
 fettle/GSD
@@ -53852,24 +54245,32 @@ feverish/PY
 feverishness/SM
 few/PTRS
 fewness/MS
+fexinidazole
 Fexmid
 fexofenadine
+fexuprazan
 Fey/M
 fey/RT
 Feynman/M
 fez/M
 Fez/M
+fezolinetant
 fezzes
 ff
 ff's
 FFA
+FFP2
+FFP3
+FFR-CT
 FFT
 FGC
 FHA
+FHIR
 FIA
 FIAC
 fiancé/MS
 fiancée/S
+fianlimab
 Fiann/M
 Fianna/M
 fiasco/M
@@ -54125,6 +54526,7 @@ fictive/Y
 ficus
 Ficus
 ficusin
+fidanacogene
 fidaxomicin
 fiddle/GMZJRSD
 fiddler/M
@@ -54260,6 +54662,7 @@ filename/SM
 filer/KMCS
 files/AC
 filet's
+filgotinib
 filgrastim
 Filhos's
 fili
@@ -54324,6 +54727,7 @@ Filoviridae
 Filovirus
 filoviruses
 Filshie
+Filspari
 filter/DGB
 filter/RDMSZGB
 filterability/S
@@ -54395,6 +54799,7 @@ fine/AF
 fine/FGSCRDA
 finely
 fineness/MS
+finerenone
 finery/MAS
 finespun
 finesse/SDMG
@@ -54450,6 +54855,7 @@ Finnish
 finny/RT
 Finochietto/M
 Finsen
+Fintepla
 Finzi
 Fiona/M
 Fionna/M
@@ -54463,6 +54869,7 @@ Fioricet
 Fiorinal
 Fiortal
 fir/ZGJMDRHS
+firadenovec
 fire/G
 fire/MS
 firearm/SM
@@ -54617,6 +55024,7 @@ fitting/AU
 fittingly
 fittingness/M
 fittings
+fitusiran
 Fitz
 Fitz/M
 Fitzgerald
@@ -55123,6 +55531,7 @@ floral/SY
 Florance/M
 florantyrone
 Floraquin
+florbetaben
 Flore/SM
 Florella/M
 Florence/M
@@ -55161,6 +55570,7 @@ Floropryl
 Florri/M
 Florrie/M
 Florry/M
+flortaucipir
 Florvite
 Flory/M
 flosculous
@@ -55176,6 +55586,7 @@ flotation/SM
 flotilla/SM
 flotsam/SM
 flottant
+flotufolastat
 flounce/GDS
 flouncing/M
 flouncy/RT
@@ -55365,6 +55776,7 @@ fluorochrome/S
 FluoroCore
 fluorocyte
 fluorodeoxyuridylate
+fluoroestradiol
 fluorography
 fluoroimmunoassay
 fluorometer
@@ -55422,6 +55834,7 @@ Flurobate
 flurogestone
 Flurosyn
 flurothyl
+flurpiridaz
 flurry/GMDS
 flush
 flush/TRSDPBG
@@ -55432,6 +55845,7 @@ fluspirilene
 fluster/DSG
 flutamide
 flute/SRDGMJ
+flutemetamol
 fluter/M
 Flutex
 flutiazin
@@ -55474,6 +55888,7 @@ Flynn
 Flynn/M
 flyover/MS
 flypaper/MS
+Flyrcado
 flysheet/S
 flyspeck/MDGS
 flyswatter/S
@@ -56160,6 +56575,7 @@ fosamil
 fosamprenavir
 fosaprepitant
 Foscan
+foscarbidopa
 foscarnet
 Foscavir
 fosfomycin
@@ -56167,6 +56583,8 @@ fosfonet
 Fosfree
 Foshay's
 fosinopril
+foslevodopa
+fosmanogepix
 Fosnaugh
 fosphenytoin
 fospirate
@@ -56187,6 +56605,7 @@ fossilized/U
 fossula
 fossulae
 fossulate
+fostemsavir
 Foster
 Foster/M
 foster/SRDG
@@ -56194,6 +56613,7 @@ fosterer/M
 Fostex
 fotemustine
 Fothergill/M
+Fotivda
 Foucault/M
 Fouchet's
 foudroyant
@@ -56340,6 +56760,7 @@ fragmentary/P
 fragmentation
 fragmentation/MS
 fragmentography
+fragmentomics
 fragments
 Fragmin
 Fragonard/M
@@ -56605,6 +57026,8 @@ Freidrich
 freight/ZGMDRS
 freighter/M
 Frejka
+FREM/S
+fremanezumab
 fremitus
 Fremont/M
 frena
@@ -56682,6 +57105,7 @@ Freudian/S
 freudianism
 Freund's
 freundii
+frexalimab
 Frey's
 Frey/M
 Freya/M
@@ -57103,6 +57527,7 @@ Fulvia/M
 Fulvicin
 fulvius
 fulvum
+fulzerasib
 fumagillin
 fumarase
 fumarate
@@ -57276,6 +57701,7 @@ furlong/MS
 furlough/DGM
 furloughs
 Furlow
+furmonertinib
 furn
 furnace/GMSD
 furnish/GASD
@@ -57426,6 +57852,8 @@ g.g.
 G.G.G.
 G/B
 g/VBX
+G12C
+G12D
 G6PD
 GA
 Ga/M
@@ -57652,6 +58080,7 @@ galaxy/MS
 galba
 Galbraith/M
 Galbreath/M
+galcanezumab
 Galderma
 gale
 gale's
@@ -57751,6 +58180,7 @@ Galois/M
 galoot/MS
 galore/S
 galosh/GMSD
+GalSafe
 galsulfase
 Galsworthy/M
 GALT
@@ -57888,12 +58318,14 @@ gamulin
 gamut/MS
 gamy/TRP
 Gan/M
+ganaplacide
 ganaxolone
 ganciclovir
 gander/DMGS
 Gandhi/M
 Gandhian
 Gandy
+ganfeborole
 gang/GRDMS
 gangbusters
 ganger/M
@@ -57973,6 +58405,7 @@ Ganser
 ganser's
 Gant's
 Gantanol
+gantenerumab
 gantlet/GMDS
 Gantrisin
 Gantry/M
@@ -57993,6 +58426,7 @@ gapped
 gapping
 Gar/MH
 gar/SLM
+garadacimab
 garage/GMSD
 Garald/M
 Garamycin
@@ -58027,6 +58461,7 @@ Gare/MH
 Garek/M
 Garel's
 Gareth/M
+garetosmab
 Garey/M
 Garfield/M
 garfish/MS
@@ -58099,6 +58534,7 @@ garrulousness/MS
 Garry/M
 garryana
 Garré's
+garsorasib
 garter/SGDM
 Garth/M
 Gartland
@@ -58119,6 +58555,7 @@ gas/FC
 gasbag/MS
 GasBGon
 Gascony/M
+gasdermin
 gaseous/P
 gaseous/YP
 gaseousness/M
@@ -58366,6 +58803,7 @@ gastrula/S
 gastrulae
 gastrular
 gastrulate/GND
+gastruloid/S
 gasworks/M
 Gatch
 gate/DG
@@ -58446,6 +58884,7 @@ Gavin/M
 Gaviscon
 gavotte/MSDG
 Gavra/M
+Gavreto
 Gavrielle/M
 Gawain/M
 Gawen/M
@@ -58481,6 +58920,7 @@ Gaziantep/M
 gazillion/S
 gazpacho/MS
 GB
+GBA1
 GBG
 GBGase
 GBL
@@ -58650,6 +59090,7 @@ gencold
 gendarme/MS
 gendecon
 gender
+gender-affirming
 gender/DMGS
 genderless
 gene-splicing
@@ -59000,9 +59441,12 @@ Geotrichum
 geotropic
 geotropically
 geotropism
+gepant/S
+geperpavec
 gephyromania
 Gephyrophobia
 gepirone
+gepotidacin
 ger
 Ger/M
 Geraghty
@@ -59130,6 +59574,7 @@ gerontotherapy/S
 gerontotoxon
 gerontoxon
 geropsychiatry
+geroscience
 Gerota
 gerota's
 gerpes
@@ -59521,6 +59966,7 @@ girdle
 girdle/GMRSD
 girdler/M
 Girdlestone
+giredestrant
 girl/MS
 girlfriend/MS
 girlhood/SM
@@ -59571,6 +60017,9 @@ given/SP
 Givens'
 giver/M
 giving/Y
+givinostat
+Givlaari
+givosiran
 GIX
 Giza/M
 Gizela/M
@@ -59718,6 +60167,7 @@ glean/RDGZJS
 gleaner/M
 gleaning/M
 Gleason/M
+glecirasib
 Gleda/M
 glee
 glee/DSM
@@ -59872,6 +60322,7 @@ globulus
 globus
 glochid
 glockenspiel/SM
+glofitamab
 glomal
 glomangioma/S
 glomangiomata
@@ -59999,6 +60450,8 @@ glower/GD
 glowing/Y
 glowworm/SM
 gloxazone
+GLP-1
+GLP-1RA
 Glu
 glubionate
 gluc
@@ -60289,6 +60742,7 @@ glycolysis
 glycolytic
 glycolytically
 Glycomed
+glycomics
 glycone
 glyconeogeneses
 glyconeogenesis
@@ -60359,6 +60813,7 @@ glykemia
 Glylorin
 glymidine
 glyminox
+glymphatic
 Glyn/M
 Glynase
 Glynda/M
@@ -60376,6 +60831,7 @@ glyoxylic
 glyoxysome
 glyph/M
 glyphe
+glyphosate
 glyphs
 Glyptocranium
 Glyquin
@@ -60432,6 +60888,7 @@ GNC
 gne's
 gneiss/SM
 Gnni/M
+gnomAD
 GNOME/M
 gnome/SM
 gnomelike
@@ -60563,6 +61020,7 @@ goitrogenous
 Goitrogens
 goitrous
 Golan/M
+golcadomide
 Golconda/M
 gold
 gold/MRNGTS
@@ -60614,12 +61072,14 @@ Goliaths
 golimumab
 Goll/M
 golly/S
+golodirsen
 GolT
 Goltz/M
 GoLYTELY
 Golé
 Gombault/M
 Gomco
+Gomekli
 gomespilus
 Gomez/M
 gomitoli
@@ -60917,6 +61377,7 @@ governmental/Y
 Governor
 governor/MS
 governorship/SM
+govitecan
 govt
 Gower/S
 Gowers'
@@ -60929,8 +61390,10 @@ gpd
 GPI
 GPIIb
 GPO
+GPRC5D
 GPSS
 gpt
+GPT-4
 gr
 Gr/M
 Graaff
@@ -61489,6 +61952,7 @@ grillwork/M
 grim/PGYD
 grimace/DRSGM
 grimacer/M
+GrimAge
 Grimaldi/M
 grimanual
 grime/MS
@@ -61741,6 +62205,7 @@ Grütz
 gs/A
 GSA
 GSC
+GSDMD
 Gsell
 GSH
 GSSG
@@ -62059,6 +62524,7 @@ gurney/S
 guru/MS
 gus
 Gus/M
+guselkumab
 Gusella/M
 gush/SRDGZ
 gusher/M
@@ -62161,6 +62627,7 @@ GVH
 GvHD
 GVHD
 Gwalior/M
+GWAS
 Gwen/M
 Gwendolen/M
 Gwendolin/M
@@ -62340,6 +62807,8 @@ h.p.
 h.s.
 h/EMS
 H2O
+H5N1
+H5N6
 ha/H
 Ha/M
 HAA
@@ -63907,6 +64376,7 @@ Hatteras/M
 Hatti/M
 Hattie/M
 hatting
+hATTR
 Hatty/M
 hauberk/SM
 Hauch
@@ -64160,6 +64630,7 @@ healthiness/MSU
 Healthpoint
 healths
 HealthShield
+healthspan
 HealthTronics
 HealthWire
 healthy/TPR
@@ -64344,6 +64815,7 @@ hedonist/MS
 hedonistic
 hedonistically
 Hedonophobia
+hEDS
 hedspa
 Hedström
 Hedulin
@@ -64882,6 +65354,7 @@ hemerocallidaceae
 hemerocallis
 Hemerocampa
 hemerythrin
+Hemgenix
 hemi
 hemi-
 hemiabdomen
@@ -65110,6 +65583,7 @@ hemizona
 hemizygosity
 hemizygote
 Hemizygous
+Hemlibra
 hemline/SM
 hemlock
 hemlock/MS
@@ -65383,6 +65857,7 @@ hemstitch/DSMG
 hemuresis
 hen
 hen/MS
+henagliflozin
 henbane
 henbit
 hence/S
@@ -65627,6 +66102,7 @@ Hepatozoon
 hepatozoonosis
 Hepburn/M
 hepcidin
+Hepcludex
 Hephaestus/M
 Hephzibah/M
 Hepicebrin
@@ -65673,6 +66149,8 @@ heptosuria
 heptulose
 heptyl
 her
+HER2-low
+HER2-ultralow
 Hera/M
 Heracles/M
 heracleum
@@ -66307,6 +66785,7 @@ hexagonus
 hexagram/SM
 Hexahydrate
 hexahydric
+hexahydrocannabinol
 hexahydroxycyclohexa
 hexahydroxycyclohexane
 Hexakis
@@ -66391,7 +66870,11 @@ Hezekiah/M
 hf
 HF
 Hf/M
+HFimpEF
+HFmrEF
+HFpEF
 Hfr
+HFrEF
 hFSH
 Hg/M
 hgb
@@ -66729,6 +67212,7 @@ hippus
 Hipputope
 hippy's
 Hiprex
+hiPSC
 hipster/MS
 hiragana
 Hiram/M
@@ -66956,6 +67440,7 @@ histotome
 histotomy
 histotope
 histotoxic
+histotripsy
 histotroph
 histotrophe
 histotrophic
@@ -67940,6 +68425,7 @@ hospice/MS
 hospitable/I
 hospitably/I
 hospital
+hospital-at-home
 hospital/MS
 hospitalism
 hospitalist
@@ -68116,6 +68602,7 @@ Hoyne's
 Hoyt/M
 hp
 HP
+HPAI
 HPETE
 hpf
 HPH
@@ -69177,6 +69664,7 @@ Hymie/M
 hymn/GSDM
 hymnal/SM
 hymnbook/S
+Hympavzi
 hynchus
 Hynda/M
 Hynes
@@ -69606,6 +70094,7 @@ hyperimmunoglobulinaemia
 hyperimmunoglobuline
 hyperimmunoglobulinemia
 hyperinfection
+hyperinflammatory
 hyperinflate/DN
 hyperinflate/S
 hyperinflation
@@ -70328,6 +70817,7 @@ hypofertility
 hypofibrinogenaemia
 hypofibrinogenemia
 hypofibrinogenemic
+hypofractionated
 hypofunction/G
 hypogalactia
 hypogalactous
@@ -70938,6 +71428,7 @@ ian
 Ian/M
 iana
 ianal
+ianalumab
 iandrum
 ianic
 Ianthe/M
@@ -70978,6 +71469,7 @@ Ibby/M
 ibc
 ibchanomys
 IBD
+iberdomide
 iberet
 Iberia/M
 Iberian/MS
@@ -70996,9 +71488,11 @@ ibogaine
 iBOT
 ibotenic
 Ibrahim/M
+ibrexafungerp
 Ibrin
 ibritumomab
 Ibsen/M
+Ibsrela
 IBT
 ibufenac
 Ibuprin
@@ -71017,6 +71511,7 @@ Icarus/M
 Icatibant
 ICBM/S
 ICC
+ICD-11
 ICD/S
 ice's
 ice/DG
@@ -71107,8 +71602,10 @@ icksonia
 icky/RT
 ICL
 iclaprim
+iclepertin
 ICN
 ico
+icodec
 icodextrin
 icofluoric
 icol
@@ -71124,6 +71621,7 @@ icosahedra
 icosahedral
 icosahedron/M
 icosanoic
+icotrokinra
 ICP
 ICR
 icrhogam
@@ -71214,6 +71712,7 @@ ideate/SN
 ideation
 ideation/M
 ideational
+idecabtagene
 idee/S
 idei
 Idell/M
@@ -71402,6 +71901,7 @@ Ifex
 iffiness/S
 iffy/TPR
 ified
+ifinatamab
 ifloraceae
 IFN
 Ifni/M
@@ -71505,6 +72005,8 @@ Ilaris
 ilase
 ilbe
 ILC
+ILC2
+ILC3
 Ile
 ilea
 ileac
@@ -71667,6 +72169,7 @@ illogical/PY
 illogicality/SM
 illogicalness/M
 illosa
+Illuccix
 illucens
 illum
 illume/DG
@@ -71725,6 +72228,7 @@ Ilyssa/M
 Ilyushin/M
 im-
 ima
+Imaavy
 imachia
 imafen
 image/DSGM
@@ -71782,11 +72286,15 @@ imbroglio/MS
 imbruing
 imbue/GDS
 imciromab
+Imcivree
 ImClone
 ImD50
+Imdelltra
+imdevimab
 Imdur
 Imelda/M
 Imerslund
+imetelstat
 imex
 IMF
 imferon
@@ -71832,7 +72340,10 @@ imitative/YP
 imitativeness/MS
 imitator/SM
 Imitrex
+Imjudo
 Imlach's
+imlifidase
+imlunestrant
 immaculate/YP
 immaculateness/SM
 immanence/S
@@ -72085,6 +72596,7 @@ immunotherapeutic/S
 Immunotherapeutics
 immunotherapist
 immunotherapy/S
+immunothrombosis
 immunotoxic
 Immunotoxin
 immunotoxin/S
@@ -72498,6 +73010,7 @@ inaugural/S
 inaugurate/XSDNG
 inauguration/M
 inauthenticity
+inavolisib
 inborn
 inbound/G
 inbred/S
@@ -72610,6 +73123,7 @@ incline/EGSD
 incliner/M
 inclining/M
 inclinometer
+inclisiran
 include/GDS
 inclusion/MS
 inclusion/S
@@ -72965,6 +73479,7 @@ indwelling
 Indy/SM
 ine-medin
 ine/F
+inebilizumab
 inebriant
 inebriate/DNG
 inebriate/NGSDX
@@ -73118,6 +73633,7 @@ infester/M
 infibulation
 infidel/SM
 infighting/M
+infigratinib
 infill/MG
 infiltrate/V
 infiltrator/MS
@@ -73143,6 +73659,7 @@ inflame/GD
 inflammable/P
 inflammableness/M
 inflammagen
+inflammaging
 inflammation
 inflammation/MS
 inflammatoria
@@ -73180,6 +73697,7 @@ influenzae
 influenzal
 Influenzavirus
 info/SM
+infodemic
 infold/GJ
 infomercial/S
 Informatica/M
@@ -73385,6 +73903,7 @@ Ingres/M
 ingress/MS
 ingressing
 ingression/M
+Ingrezza
 Ingrid/M
 Ingrim/M
 ingrown
@@ -73533,8 +74052,10 @@ inlay
 inlay/RG
 inletting
 InLine
+Inluriyo
 inly/G
 inmate
+Inmazeb
 inmost
 inn/R
 inn/ZGDRSJ
@@ -73596,6 +74117,7 @@ innumerableness/M
 innumerably
 innumerate
 inoblast
+INOCA
 inochondritis
 Inocor
 inocula
@@ -73657,6 +74179,7 @@ inosome
 inosphaerium
 inosuria
 inotagma
+inotersen
 inotrope/S
 inotropic
 inotropism
@@ -73665,6 +74188,7 @@ Inoviridae
 inovirus
 InPath
 inpatient
+Inpefa
 Inpersol
 InPlex
 input/MRDG
@@ -73686,6 +74210,7 @@ inquisitor/MS
 inquisitorial/Y
 INR
 INRange
+Inrebic
 INRI
 inrush/M
 ins
@@ -74700,6 +75225,7 @@ intimidate/SDXNG
 intimidating/Y
 intimidation/M
 intimitis
+intismeran
 into
 Intocostrin
 intoe/D
@@ -75380,6 +75906,7 @@ ionizer/US
 ionizes/U
 ionizing/U
 ionocolorimeter
+ionocyte/S
 ionogenic
 ionomer
 ionometer
@@ -75500,12 +76027,15 @@ iproxamine
 iprymnodon
 IPs
 ipsation
+iPSC
+iPSC-derived
 ipsi
 ipsi-
 ipsilateral
 ipso
 IPSP
 Ipswich/M
+iptacopan
 iptera
 ipteridae
 iPTH
@@ -75513,6 +76043,7 @@ IPV
 ipylephlebitis
 IQ
 Iqbal/M
+Iqirvo
 iqua
 Iquitos/M
 Iquix
@@ -75829,11 +76360,13 @@ isamine
 isamoxole
 isatin
 isatis
+isatuximab
 isauxeses
 isauxesis
 isauxetic
 ISBN
 Iscariot/M
+IscB
 isch
 ischaaemia/S
 ischaemia/S
@@ -75936,6 +76469,7 @@ island/GZMRDS
 island/S
 islander/M
 Islandia/M
+islatravir
 Isle
 isle/MS
 islet/S
@@ -76250,6 +76784,7 @@ isotonia
 isotonic
 isotonically
 isotonicity/S
+isotonitazene
 isotope
 isotope/SM
 isotopic
@@ -76379,6 +76914,7 @@ Itard
 itard's
 Itasca/M
 itate
+iTBS
 itch/G
 itch/GMDS
 Itch/M
@@ -76396,6 +76932,7 @@ itemize/GZDRS
 itemized/U
 itemizer/M
 itemizes/A
+itepekimab
 iteral/C
 iterate/ASDXVGN
 iteration/M
@@ -76424,6 +76961,7 @@ Ito
 Ito/M
 itory
 itosphenoidal
+Itovebi
 ITP
 itracin
 itraconazole
@@ -76470,6 +77008,7 @@ Ivie/M
 ivig
 ivistona
 ivizumab
+ivonescimab
 Ivonne/M
 Ivor/M
 ivory
@@ -76488,6 +77027,7 @@ IvyBlock
 Iwanoff's
 ix
 ixabepilone
+Ixchiq
 Ixense
 ixeris
 ixia
@@ -76513,8 +77053,10 @@ Izak/M
 Izanagi/M
 Izanami/M
 izer
+Izervay
 Izhevsk/M
 Izmir/M
+izokibep
 izus
 Izvestia/M
 Izzy/M
@@ -76877,6 +77419,7 @@ Jaymee/M
 Jaymie/M
 Jayne/M
 Jaynell/M
+Jaypirca
 Jayson/M
 jaywalk/JSRDZG
 jaywalker/M
@@ -76987,6 +77530,7 @@ Jemimah/M
 Jemmie/M
 jemmy/M
 Jemmy/M
+Jemperli
 Jen/M
 Jena/M
 Jenamicin
@@ -77087,6 +77631,7 @@ Jervell-Lange-Neilson
 Jervis/M
 Jes
 Jesberg
+Jesduvroq
 Jesness
 jess/M
 Jess/M
@@ -77474,6 +78019,7 @@ journalistic
 journalize/DRSGZ
 journalized/U
 journalizer/M
+Journavx
 journey/DRMZSGJ
 journeyer/M
 journeyman/M
@@ -77786,7 +78332,10 @@ Juzo
 JV
 jvd
 jvp
+Jynarque
+Jynneos
 Jyoti/M
+Jyseleca
 jyutsu
 Jürgensen's
 k's
@@ -78298,6 +78847,7 @@ Keaton/M
 Keats/M
 kebab/SM
 keberg
+Kebilidi
 kebocephaly
 Keck/M
 ked
@@ -78570,6 +79120,7 @@ kerchief/MDSG
 Kerckring/M
 kerectasis
 kerectomy
+Kerendia
 Kerensky/M
 Kergaradec's
 keri
@@ -78622,6 +79173,7 @@ Kersting
 Kerwin/M
 Kerwinn/M
 Keshan/M
+Kesimpta
 Kesley/M
 Keslie/M
 Kesling
@@ -78938,6 +79490,7 @@ Kimmelstiel
 kimmelstiel-wilson
 Kimmi/M
 Kimmie/M
+Kimmtrak
 Kimmy/M
 kimono/MS
 Kimray
@@ -79174,6 +79727,7 @@ Kissimmee
 kissing
 Kissinger/M
 Kistner
+Kisunla
 Kit/M
 kit/MDRGS
 Kitakyushu/M
@@ -79287,6 +79841,7 @@ Klor
 Kloromin
 Klorvess
 Klossiella
+klotho
 Klotrix
 kludge/RSDGMZ
 kludger/M
@@ -79304,6 +79859,7 @@ klyte
 Klüver
 km
 kn
+KN95
 knack/SGZRDM
 knacker/M
 knackwurst/MS
@@ -79515,6 +80071,7 @@ komatoses
 Komed
 Kommunizma/M
 komodomys
+Komzifti
 Konakion
 Kondo's
 kondoleon's
@@ -79581,6 +80138,7 @@ Korotkoff/M
 Korrie/M
 Korry/M
 Korsakoff/M
+Korsuva
 Kort/M
 Kory/M
 Korzybski/M
@@ -79589,6 +80147,7 @@ Kos
 kosam
 Kosciusko/M
 koscope
+Koselugo
 koseri
 kosher/DGS
 Koshevnikoff's
@@ -79642,6 +80201,7 @@ Kramer/M
 krameria
 Krames
 Krantz
+KRAS
 Kraske/M
 Krasnodar/M
 Krasnoyarsk/M
@@ -79653,6 +80213,7 @@ kraurosis
 kraurotic
 Krause/M
 kraut/S!
+Krazati
 kreatin
 krebiozen
 Krebs
@@ -79681,6 +80242,7 @@ Krimer's
 krimpsiekte
 Kringle/M
 kringle/S
+Krintafel
 Kris/M
 Krisha/M
 Krishaber's
@@ -79865,6 +80427,7 @@ kymograph
 kymographic
 kymography/S
 kymoparalytica
+Kymriah
 Kynamro
 Kynex
 kynocephalus
@@ -79927,6 +80490,7 @@ l/JGVXT
 LA
 La/M
 la/MHLG
+LAAO
 lab/SM
 Lab/SM
 Laban/M
@@ -80296,6 +80860,7 @@ Lafayette/M
 Lafitte/M
 Lafora/M
 lag
+LAG-3
 Lag.
 lag/ZSR
 lagan
@@ -80640,11 +81205,13 @@ languisher/M
 languishing/Y
 languor/SM
 languorous/Y
+Langya
 Lani/M
 laniarius
 laniary
 Laniazid
 Lanie/M
+lanifibranor
 laniroif
 Lanita/M
 lank/PTYR
@@ -80684,6 +81251,7 @@ lanthes
 lanthionine
 lanthium
 lanthopine
+Lantidra
 lantin
 Lantrisul
 Lantus
@@ -80984,6 +81552,7 @@ lasiorhinus
 lasiurus
 Lasix
 lasmataceae
+lasmiditan
 lass/SM
 Lassa
 Lassa/M
@@ -81344,8 +81913,10 @@ Lazaro
 Lazaro/M
 Lazarus/M
 lazarwort
+Lazcluze
 laze/DSG
 LazerSmile
+lazertinib
 lazily
 laziness/MS
 lazuli/M
@@ -81356,6 +81927,7 @@ lazybones/M
 Laënnec/M
 lb
 lbark
+LBBAP
 lbbb
 lbee's
 lbenemid
@@ -81404,6 +81976,7 @@ leadenness/M
 leader/M
 leaderless
 leadership/MS
+leadless
 leadsman/M
 leadsmen
 leae
@@ -81502,7 +82075,9 @@ Lebesgue/M
 Lebistes
 Leblanc/M
 Leboyer
+lebrikizumab
 Lebsche
+lecanemab
 lecanopagus
 lecanoric
 Lecat's
@@ -81592,6 +82167,7 @@ Leeward/M
 leeward/S
 leeway
 leeway/MS
+lefamulin
 Leff
 LefFvre
 leflunomide
@@ -81769,6 +82345,7 @@ LeMaitre
 Lemaitre/M
 Lemar/M
 Lembert/M
+lemborexant
 Lemierre
 Lemieux
 leminorella
@@ -81809,6 +82386,8 @@ Len/M
 len/S
 lena
 Lena/M
+lenacapavir
+lenadogene
 lenalidomide
 Lenard/M
 Lenci/M
@@ -81841,6 +82420,7 @@ leniquinsin
 lenitive
 lenitive/S
 Lenka/M
+Lenmeldy
 Lenna/M
 Lennard/M
 Lennert's
@@ -81976,6 +82556,7 @@ lepilemur
 lepirudin
 Lepke/M
 lepocyte
+lepodisiran
 Lepore
 leporidae
 leporillus
@@ -82089,6 +82670,9 @@ Leptus
 leptuses
 lepus
 Lepus/M
+Leqembi
+Leqselvi
+Leqvio
 ler
 Lerch's
 Leredde/M
@@ -82098,6 +82682,7 @@ leri's
 leriac
 Lerich's
 Leriche/M
+leriglitazone
 Leritine
 lerix
 Lerman
@@ -82153,6 +82738,7 @@ let/ISM
 Leta/M
 letdown/SM
 leteprinim
+letermovir
 Letha/M
 lethal
 lethal/YS
@@ -82168,6 +82754,7 @@ Lethe/M
 letheon
 Lethia/M
 lethraceae
+letibotulinumtoxinA
 Leticia/M
 letimide
 Letisha/M
@@ -82419,6 +83006,7 @@ Leuvectin
 leuzea
 Lev's
 Lev/M
+levacetylleucine
 Levacor
 Levadex
 Levaditi's
@@ -82508,6 +83096,7 @@ levogram
 levogyral
 levogyrate/N
 Levoid
+levoketoconazole
 Levoleucovorin
 levomepromazine
 levomethadyl
@@ -82884,10 +83473,12 @@ lifetime/MS
 LifeTrak
 lifework/MS
 lifibrate
+lifileucel
 LIFO
 lift/GZMRDS
 lifter/M
 liftoff/MS
+LIFU
 lifugae
 lig.
 Liga
@@ -82910,9 +83501,11 @@ ligation/M
 ligator
 ligature/DSGM
 ligature/GD
+ligelizumab
 ligg.
 light
 light's
+light-sheet
 light/ADSCG
 lighted/U
 lighten/ZGDRS
@@ -83104,6 +83697,7 @@ Lin/M
 lin/SNR
 lina
 Lina/M
+linac/S
 linaceae
 Linaclotide
 Linacre
@@ -83176,6 +83770,7 @@ linemen
 linen/SM
 Lineola
 liner/SM
+linerixibat
 lines
 lines.
 lineshape
@@ -83287,6 +83882,7 @@ Linox
 Linscheid/M
 linseed
 linseed/SM
+linsitinib
 Linstowiidae
 lint
 lint/SMR
@@ -83303,7 +83899,9 @@ Linus
 Linus/M
 Linux/M
 Linvatec
+linvoseltamab
 Linwood/M
+linzagolix
 Linzy/M
 lio-
 liomys
@@ -83351,6 +83949,7 @@ lipidique
 lipidol
 lipidolysis
 lipidolytic
+lipidomics
 lipidoses
 lipidosis
 lipiduria
@@ -83610,6 +84209,7 @@ lisa
 Lisa/M
 Lisabeth/M
 lisadimate
+lisaftoclax
 Lisbeth/M
 Lisbon/M
 Lisch
@@ -83624,6 +84224,7 @@ lisinopril
 Lisle/M
 lisle/SM
 lism
+lisocabtagene
 lisofylline
 lisp/MRDGZS
 lisper/M
@@ -83696,6 +84297,7 @@ literati
 literation/M
 literator
 literature/SM
+Litfulo
 lith
 lithaaemia
 lithaemia
@@ -83810,6 +84412,7 @@ lithuresis
 lithureteria
 lithuria
 lithy
+litifilimab
 litigant/MS
 litigate/NGXDS
 litigation/M
@@ -83867,6 +84470,7 @@ livableness/M
 livably
 Livadatis'
 Livalo
+Livdelzi
 live/Y
 live/YHZTGJDSRPB
 liveborn
@@ -83914,9 +84518,11 @@ Livingston/M
 Livingstone/M
 livistona
 livitrinsic
+Livmarli
 Livonia/M
 livor
 Livostin
+Livtencity
 Livvie/M
 Livvy/M
 Livvyy/M
@@ -83973,6 +84579,7 @@ llithotrites
 llitrichaceae
 llium
 LLL
+LLM
 lloedema
 lloplesiops
 llosciurus
@@ -83997,6 +84604,7 @@ lmus
 lnckenschSdel
 lng
 LNG
+LNP
 LNPF
 lo
 loa
@@ -84145,6 +84753,7 @@ lock/DN
 Lock/M
 lock/UGSD
 lockable
+lockdown/S
 Locke/M
 Lockean/M
 locked/A
@@ -84330,6 +84939,7 @@ loiases
 loiasis
 loin
 loin/SM
+LOINC
 loincloth/M
 loincloths
 loir
@@ -84339,6 +84949,7 @@ Loise/M
 loiter/RDJSZG
 loiterer/M
 Lok/N
+Lokelma
 Loki/M
 lola
 Lola/M
@@ -84386,7 +84997,9 @@ lomys/C
 lon
 Lon/M
 Lona/M
+lonapegsomatropin
 lonas
+loncastuximab
 Lonchocarpus
 lonchophylla
 lonchophyllinae
@@ -84405,6 +85018,7 @@ loneness/M
 loner/M
 lonesome/PSY
 lonesomeness/MS
+long-read
 long/JGTYRDPS
 Long/M
 longa
@@ -84565,6 +85179,7 @@ lopseed
 lopsided/YP
 lopsidedness/SM
 Lopurin
+Loqtorzi
 loquacious/YP
 loquaciousness/MS
 loquacity/SM
@@ -84660,6 +85275,7 @@ Lorry/M
 lorry/SM
 lorryload/S
 Lortab
+lorundrostat
 Lorus
 Lory/M
 Los
@@ -84687,6 +85303,7 @@ Lotensin
 loteprednol
 Lothaire/M
 Lothario/MS
+lotilaner
 lotio
 Lotioblanc
 lotion/MS
@@ -84796,6 +85413,7 @@ loving/U
 lovingly
 lovingness/M
 loviride
+lovotibeglogene
 Lovén
 Low
 low/PDRYSZTG
@@ -84865,6 +85483,7 @@ LPN/S
 LPS
 LPV
 Lr
+LRRK2
 ls
 LSA
 LScA
@@ -84919,6 +85538,7 @@ lucency/S
 lucensomycin
 lucent/Y
 Lucentis
+lucerastat
 Lucerne/M
 Lucey
 Lucho/M
@@ -85050,6 +85670,8 @@ Lulu/M
 lum/N
 Luma
 lumachella
+Lumakras
+lumasiran
 LuMax
 lumb
 lumbago
@@ -85131,7 +85753,9 @@ luminosity/MS
 luminous
 luminous/YP
 luminousness/M
+Lumipulse
 lumirhodopsin
+Lumisight
 lumisome
 Lumizyme
 Lumière/M
@@ -85145,6 +85769,7 @@ lumpish/YP
 lumpishness/M
 lumpy
 lumpy/TPR
+Lumryz
 Lumsden's
 Luna/M
 lunacy
@@ -85190,6 +85815,7 @@ lungmotor
 lungworm
 lunkhead/SM
 lunotriquetral
+Lunsumio
 lunula
 lunulae
 Luo
@@ -85201,6 +85827,7 @@ lupine/SM
 lupinin
 lupinine
 lupinosis
+Lupkynis
 lupoid
 luposa
 Lupron
@@ -85216,6 +85843,7 @@ lura
 Lura/M
 lural
 lurasidone
+lurbinectedin
 lurch/RSDG
 lurcher
 lurcher/M
@@ -85248,6 +85876,7 @@ lusitaniae
 lusitropic
 lusitropy
 lusoria
+luspatercept
 Lussac's
 Lust's
 lust/MRDGZS
@@ -85266,6 +85895,7 @@ lustwort
 lusty/PRT
 lusus
 lutanist/MS
+Lutathera
 lute/DSMG
 lute/G
 lutea
@@ -85334,6 +85964,7 @@ Luxembourgian
 Luxemburg's
 Luxiq
 Luxol
+Luxturna
 luxullianite
 luxuriance/MS
 luxurians
@@ -85401,6 +86032,7 @@ lye/G
 lye/JSMG
 Lyell's
 Lyell/M
+Lyfgenia
 Lygen
 lying/Y
 Lyle
@@ -85631,6 +86263,7 @@ lynestrenol
 Lynett/M
 Lynette/M
 lyngbya
+Lynkuet
 Lynn/M
 Lynna/M
 Lynne/M
@@ -85641,6 +86274,7 @@ Lynnet/M
 Lynnett/M
 Lynnette/M
 Lynoral
+Lynozyfic
 Lynsey/M
 lynx
 lynx/MS
@@ -85744,6 +86378,7 @@ lythontriptic
 lytic
 lytically
 Lytta
+Lyumjev
 LyX/M
 lyxose
 lyze
@@ -85771,6 +86406,7 @@ M.R.
 m.u.
 m/ASK
 M/GB
+m6A
 MA
 ma'am
 ma/MH
@@ -86149,6 +86785,8 @@ mafilcon
 mafiosi
 mafioso/M
 Mafioso/S
+mafodotin
+maftivimab
 Mafucci
 Mag
 MAG
@@ -86388,6 +87026,7 @@ Maison/M
 maisonette/MS
 Maisonneuve/M
 Maissiat's
+MAIT
 Maitilde/M
 Maitland
 maize/MS
@@ -87105,6 +87744,8 @@ marabou/MS
 marabout's
 maraca/MS
 Maracaibo/M
+maraleucel
+maralixibat
 Maranta
 marantic
 maraschino/SM
@@ -87215,10 +87856,12 @@ Margaropus
 Margaux/M
 Marge/M
 Margeaux/M
+Margenza
 Margery/M
 Margesic
 Marget/M
 Margette/M
+margetuximab
 Margi/M
 Margie/M
 margin
@@ -87262,11 +87905,13 @@ Marianna/M
 Marianne/M
 Mariano/M
 marianum
+maribavir
 Maribel/M
 Maribelle/M
 Maribeth/M
 Marice/M
 Maricela/M
+maridebart
 Maridel/M
 Marie/M
 Marieann/M
@@ -87472,6 +88117,7 @@ marshland/MS
 marshmallow/SM
 marshy/PRT
 Marsiella/M
+marstacimab
 marsupia
 marsupial
 marsupial/MS
@@ -87586,11 +88232,13 @@ mash/JGZMSRD
 Masha/M
 Mashhad/M
 Masimo
+masitinib
 mask/D
 mask/GZSRDMJ
 masked/U
 masker/M
 masks/U
+MASLD
 masochism
 masochism/MS
 masochist
@@ -87933,6 +88581,7 @@ mausoleum/SM
 Mauthner/M
 mauve/SM
 mauvein
+mavacamten
 maven/S
 maverick/SMDG
 Mavik
@@ -88061,10 +88710,12 @@ mays
 mayst
 maytansine
 mayweed
+Mayzent
 Mazama/M
 Mazarin/M
 Mazatlan/M
 Mazda/M
+mazdutide
 maze
 maze/MGDSR
 mazed/YP
@@ -88134,6 +88785,7 @@ McDonnell/M
 McDougall/M
 McDowall
 McDowell/M
+MCED
 McElhaney/M
 McEnroe/M
 McEwen's
@@ -88158,6 +88810,7 @@ mchc
 mCi
 MCI
 MCI/M
+MCID
 McIndoe
 McIntosh/M
 McIntyre/M
@@ -88297,6 +88950,7 @@ mebutamate
 Mecadox
 mecamine
 mecamylamine
+mecarbil
 mecasermin
 MeCbl
 Mecca
@@ -88359,6 +89013,7 @@ mecrylate
 Mectizan
 mecystasis
 med
+Med-PaLM
 med.
 med/S
 medal/SGMD
@@ -88960,6 +89615,7 @@ membranate
 membrane/MSD
 membrane/SD
 membranectomy
+membraneless
 membranelle
 membraniform
 membranin
@@ -89183,6 +89839,7 @@ menostaxis
 menotropins
 Menotti/M
 menouria
+MenQuadfi
 Menrium
 mens/SDG
 Mensa/M
@@ -89351,6 +90008,7 @@ merethoxylline
 Meretoja/M
 meretricious/YP
 meretriciousness/SM
+MERFISH
 merganser/MS
 merge/SRDGZ
 merger/M
@@ -89768,6 +90426,7 @@ Met
 met/U
 meta
 meta-
+meta-analytic
 Meta/M
 metabasis
 metabiosis
@@ -89864,6 +90523,7 @@ metakinesis
 metal
 metal/SGMD
 metalanguage/MS
+MetALD
 metaldehyde
 metalization/SM
 metalized
@@ -90281,6 +90941,7 @@ metoestrum
 metoestrus
 metogest
 metolazone
+metonitazene
 metonymy
 metonymy/M
 metop
@@ -90420,6 +91081,7 @@ Meyhofer
 Meynert/M
 Meynet's
 mezereum
+mezigdomide
 Mezlin
 mezlocillin
 mezzanine/MS
@@ -90439,7 +91101,9 @@ Mgr
 MHA
 MHC
 MHD
+mHealth
 mho
+MHRA
 MHSC
 MHz
 MI
@@ -90682,6 +91346,7 @@ microecology
 microeconomic/S
 microeconomics/M
 microecosystem
+MicroED
 microelectrode
 microelectronic/S
 microelectronics/M
@@ -90881,6 +91546,7 @@ microphthalmic
 microphthalmos
 microphthalmoscope
 microphthalmus
+microphysiological
 microphyte
 micropigmentation
 micropinocytosis
@@ -90889,6 +91555,7 @@ micropipetted
 micropipetting
 micropituicyte
 microplasia
+microplastic/S
 microplethysmography
 micropodia
 micropolariscope
@@ -91098,6 +91765,7 @@ midmost/S
 midnight/SYM
 midoccipital
 midodrine
+midomafetamine
 midpain
 midpalmar
 midpelvic
@@ -91147,6 +91815,7 @@ midwifery/SM
 midwinter/YMS
 midwives
 midyear/MS
+Miebo
 mien/M
 Mierzejewski
 Miescher's
@@ -91178,6 +91847,7 @@ migrainous
 Migranal
 migrans
 migrant/MS
+migrasome/S
 migrate/ASDG
 migrating
 migration
@@ -91380,6 +92050,7 @@ Miltown
 Miltown/M
 Milty/M
 milverine
+milvexian
 Milwaukee
 Milwaukee/M
 milzbrand
@@ -91547,6 +92218,7 @@ Minnnie/M
 minnow/SM
 Minny/M
 Minoan/S
+MINOCA
 Minocin
 minocycline
 Minolta/M
@@ -91635,6 +92307,7 @@ Mirapex
 Mircera
 Mircette
 Mirchamp's
+mirdametinib
 mire
 mire/MGDS
 Mireielle/M
@@ -91644,6 +92317,7 @@ Mirelle/M
 Mirena
 Mirfak/M
 Miriam/M
+mirikizumab
 Mirilla/M
 mirincamycin
 Mirna/M
@@ -91658,9 +92332,12 @@ mirthless/YP
 mirthlessness/M
 mirths
 MIRV/DSG
+mirvetuximab
 miry/RT
 miryachit
 Mirzam/M
+MIS-A
+MIS-C
 mis/SRZ
 misaddress/SDG
 misadventure/SM
@@ -91916,6 +92593,7 @@ miswritten
 MIT
 Mit.
 MIT/M
+mitapivat
 mitapsis
 Mitch/M
 Mitchael/M
@@ -91957,6 +92635,7 @@ mitolactol
 mitomalcin
 mitome
 mitomycin
+mitophagy
 mitoplasm
 MitoQ
 mitoschisis
@@ -91972,6 +92651,7 @@ mitotically
 mitoxantrone
 MitraClip
 Mitraflex
+mitragynine
 mitral
 mitrale
 mitralis
@@ -92028,6 +92708,7 @@ MLF
 Mlle/M
 MLNS
 MLO
+mLOY
 MLP
 MLR
 MLT
@@ -92095,6 +92776,7 @@ mobilometer
 Mobiluncus
 Mobin
 Mobitz
+mobocertinib
 mobster/MS
 Mobutu/M
 moccasin
@@ -92284,6 +92966,7 @@ molestation/SM
 molested/U
 molester/M
 molestissimus
+molidustat
 Moliere
 molilalia
 molimen
@@ -92323,6 +93006,7 @@ mollycoddle/SRDG
 mollycoddler/M
 Molnar/M
 MOLNLYCKE
+molnupiravir
 Moloch/M
 Molokai/M
 Moloney
@@ -92347,6 +93031,7 @@ molybdous
 Molypen
 mom/SM
 Mombasa/M
+momelotinib
 moment/MYS
 momenta
 momentarily
@@ -93165,6 +93850,7 @@ Mosler/M
 Mosley/M
 mOsm
 mosque/SM
+Mosquirix
 mosquito
 mosquito/M
 mosquitocidal
@@ -93184,6 +93870,7 @@ mossy
 mossy/SRT
 most/SY
 Mosul/M
+mosunetuzumab
 mot/MSV
 Motais
 Motais'
@@ -93285,6 +93972,7 @@ moult/GSD
 mound/GMDS
 mounding
 Mounier
+Mounjaro
 mount/EGACD
 Mount/M
 mountable
@@ -93364,7 +94052,9 @@ moxa
 moxalactam
 moxazocine
 MOXCON
+moxeparvovec
 moxibustion
+moxidectin
 moxie/MS
 moxifloxacin
 moxnidazole
@@ -93398,6 +94088,7 @@ MPI
 MPIF
 MPM
 MPO
+mpox
 MPR
 MPRAG
 MPRAGE
@@ -93405,6 +94096,8 @@ MPS
 MPT
 MPTS
 MQSA
+MR-guided
+MR-linac
 Mr/M
 MRA
 MRACP
@@ -93420,6 +94113,7 @@ MRCVS
 MRD
 MRDM
 mrem
+mRESVIA
 MRgFUS
 mri
 MRI
@@ -93427,6 +94121,8 @@ MRIs
 MRL
 MRN
 mRNA
+mRNA-1273
+mRNA-LNP
 Mrs
 MRSA
 mRV
@@ -93439,12 +94135,14 @@ MSFC
 MSG
 Msgr/M
 MSH
+MSI-H
 MSL
 MST
 MSW
 mt
 MT
 Mt/M
+MTBVAC
 MTdecins
 mtDNA
 mtg
@@ -93674,6 +94372,7 @@ Multaq
 MultAvalue
 multi
 multi-
+multi-omics
 multiallelic
 multiarticular
 multiaxial
@@ -93765,6 +94464,7 @@ multinodular
 multinomial/M
 multinucleate
 multiocular
+multiomics
 multiorgan
 MULTIPAD
 multipapillosa
@@ -94124,6 +94824,7 @@ mutualism
 mutualist
 mutuality/S
 muumuu/MS
+muvalaplin
 muzak
 Muzak/SM
 Muzo/M
@@ -94133,6 +94834,7 @@ muzzled
 muzzled/U
 muzzler/M
 MVA
+Mvabea
 MVP
 MW
 My/M
@@ -94373,6 +95075,7 @@ myers
 Myers
 Myerson's
 myesthesia
+Myfembree
 myiasis
 myiocephalon
 myiocephalum
@@ -94779,6 +95482,8 @@ n's/CI
 n-BCA
 n.p.o.
 n/T
+N1-methylpseudouridine
+N6-methyladenosine
 Na+
 Na+K+
 Na/M
@@ -94818,6 +95523,7 @@ nadide
 Nadine/M
 nadir/SM
 Nadiya/M
+nadofaragene
 nadolol
 NADP
 NADP+
@@ -94953,6 +95659,7 @@ Nannomonas
 Nanny/M
 nanny/SDMG
 nano
+nanobody/S
 nanocephalia
 nanocephalic
 nanocephalous
@@ -94970,10 +95677,13 @@ nanomolar
 nanomole
 Nanon/M
 Nanook/M
+nanoparticle/S
 nanophthalmia
 nanophthalmos
 Nanophyetus
 nanoplankton
+nanoplastic/S
+nanopore/S
 nanosecond
 nanosecond/SM
 nanosoma
@@ -95319,6 +96029,7 @@ Nauta
 nautical/Y
 nautilus/MS
 NavAblator
+navacaprant
 Navaho's
 Navajo/S
 Navajoes
@@ -95330,6 +96041,7 @@ nave/SM
 navel
 navel/MS
 Navelbine
+navepegritide
 Navi
 navicula
 navicular
@@ -95352,6 +96064,7 @@ Navion
 Navona/M
 Navratilova/M
 Navstel
+navtemadlin
 navvy/M
 Navy/S
 navy/SM
@@ -95507,6 +96220,7 @@ necropneumonia
 necropolis/SM
 necropsy
 necropsy/M
+necroptosis
 necrosadism
 necroscopy
 necrose/SD
@@ -95539,6 +96253,7 @@ Neddie/M
 Neddy/M
 Nedi/M
 nedocromil
+nedosiran
 need/YRDGS
 needed/U
 needer/M
@@ -95703,7 +96418,10 @@ nemeses
 nemesis
 Nemesis/M
 nemic
+Nemluvio
+nemolizumab
 Nemonoxacin
+nemtabrutinib
 Nencki/M
 Neo
 neoadjuvant
@@ -95823,6 +96541,7 @@ NeoVision
 Nepal/M
 Nepalese
 Nepali/MS
+neparvovec
 nepenthe/MS
 nepenthic
 Nepeta
@@ -95956,6 +96675,7 @@ Neptune/M
 neptunium
 neptunium/MS
 nequinate
+nerandomilast
 nerd/S
 nerdy/RT
 nereid
@@ -96045,6 +96765,7 @@ nethermost
 Netherton/M
 netherworld/S
 netilmicin
+NETosis
 Netromycin
 netropsin
 Netscape/M
@@ -96074,6 +96795,7 @@ Neumega
 Neupogen
 Neupro
 neur
+Neuraceq
 neurad
 neuragmia
 neural/Y
@@ -96081,6 +96803,7 @@ neuralgia
 neuralgia/MS
 neuralgic
 neuralgiform
+Neuralink
 neuralization
 neuraminic
 neuraminidase
@@ -96193,6 +96916,8 @@ neurodermatosis
 neurodevelopmental
 neurodin
 neurodissector
+neurodivergent
+neurodiversity
 neurodynamic
 neurodynia
 neuroectoderm
@@ -96379,6 +97104,7 @@ neuropodium
 neuropore
 neuropraxia
 neuroprobasia
+neuroprosthetic/S
 neuroprotective
 neuropsychiatric
 neuropsychiatrist
@@ -96463,6 +97189,7 @@ neurotropism
 neurotropy
 neurotrosis
 neurotubule
+neurotypical
 neurovaccine
 neurovaricosis
 neurovariola
@@ -96618,11 +97345,15 @@ Newtonian
 Nexavar
 nexeridine
 Nexfin
+nexiguran
 nexin/F
 Nexis/M
 Nexium
+Nexletol
+Nexlizet
 NexPosure
 next
+Nextstellis
 nexus/F
 nexus/SM
 Neyman
@@ -96635,6 +97366,7 @@ NFLPN
 NFS
 Ngaliema/M
 NGD
+Ngenla
 NGF
 Nguyen/M
 NH
@@ -96956,6 +97688,7 @@ nip/S
 Nipah
 Nipent
 niperyt
+nipocalimab
 Nippe's
 nipped
 nipper/DMGS
@@ -96972,6 +97705,9 @@ Nipride
 Nirenberg
 Nirenberg/M
 niridazole
+nirmatrelvir
+nirogacestat
+nirsevimab
 nirvana/MS
 Nirvana/S
 nisbuterol
@@ -96996,6 +97732,7 @@ nit/ZSMR
 Nita/M
 Nitabuch/M
 nitarsone
+nitazene/S
 nitazoxanide
 Nite
 niter/M
@@ -97130,6 +97867,7 @@ Niven/M
 niveus
 nivialis
 nivimedone
+nivolumab
 Nix
 nix/GDSR
 nixer/M
@@ -97142,6 +97880,7 @@ Nkrumah/M
 NLite
 NLN
 NLRB
+NLRP3
 nm
 NM
 Nm.
@@ -97149,6 +97888,7 @@ NMA
 NMD
 NMDA
 NMN
+NMPA
 NMR
 NMRI
 NMS
@@ -97299,6 +98039,7 @@ nolinium
 Noll/M
 Nollie/M
 Nolly/M
+nolparvovec
 Nolvadex
 noma
 nomad/SM
@@ -97389,6 +98130,7 @@ nonbasic
 nonbeliever/SM
 nonbelligerent/S
 nonbenign
+nonbinary
 nonblocking
 nonbreakable
 nonburnable
@@ -97729,6 +98471,7 @@ nonpermissive
 nonperson/S
 nonperturbing
 nonpetroleum
+nonpharmaceutical
 nonpharmacologic
 nonpharmacological
 nonphasic
@@ -98289,6 +99032,7 @@ nougat/MS
 Noumea/M
 noumenal
 noun/SMK
+Nourianz
 nourish/DRSGL
 nourished/U
 nourisher/M
@@ -98408,6 +99152,7 @@ Nubain
 nubbin/SM
 nubby/RT
 nubecula
+Nubeqa
 Nubia/M
 Nubian/M
 nubile
@@ -98514,6 +99259,7 @@ nudism/MS
 nudist/MS
 nudity/MS
 nudophobia
+NUDT15
 Nuedexta
 Nuel/M
 nufenoxole
@@ -98603,12 +99349,14 @@ nursery/MS
 nurseryman/M
 nurserymen
 nursling/M
+Nurtec
 nurturance
 nurturant
 nurture/SRDGZM
 nurturer/M
 nus
 nusal
+nusinersen
 Nussbaum's
 nut
 nut/MS
@@ -98666,11 +99414,13 @@ nuttiness/SM
 nutting
 nutty/TRP
 Nuvaderm
+Nuvaxovid
 Nuvera
 Nuvigil
 Nuvion
 NUVO
 nux
+Nuzyra
 nuzzle/GZRSD
 NV
 nvCJD
@@ -98833,10 +99583,12 @@ obduracy/S
 obdurate/PDSYG
 obdurateness/S
 obduration
+obecabtagene
 Obed/M
 Obediah/M
 obedience/EMS
 obedient/EY
+obefazimod
 obeisance/MS
 obeisant/Y
 obeliac
@@ -98862,6 +99614,7 @@ obfuscate/SRDXGN
 obfuscation/M
 obfuscatory
 obi/MDGS
+obicetrapib
 obicularis
 Obidiah/M
 obidoxime
@@ -99155,6 +99908,8 @@ Ochsner/M
 Oconomowoc/M
 OCR
 ocrase
+ocrelizumab
+Ocrevus
 ocrylate
 OCs
 OCT
@@ -99310,10 +100065,12 @@ Odella/M
 Odelle/M
 Oder/M
 Oderberg/MS
+odesivimab
 Odessa/M
 Odets/M
 Odetta/M
 Odette/M
+odevixibat
 Odey/M
 Odgen
 Odie/M
@@ -99406,6 +100163,7 @@ odorography
 odorous/YP
 odourless
 ODP
+odronextamab
 ODs
 ODT
 Ody/M
@@ -99468,6 +100226,7 @@ oestrum
 oestrus
 oeuvre/SM
 of/K
+ofatumumab
 OFD
 Ofelia/M
 Ofella/M
@@ -99547,6 +100306,7 @@ OGPR
 ogre/MS
 ogreish
 ogress/S
+Ogsiveo
 Ogston
 OGT
 Oguchi/M
@@ -99568,6 +100328,7 @@ oho/S
 OHP
 ohs
 OHSA/M
+Ohtuvayre
 OIA
 OIC
 oid/IF
@@ -99597,7 +100358,9 @@ ointment
 ointment/SM
 Oise/M
 OJ
+Ojemda
 Ojibwa/SM
+Ojjaara
 OK/MDG
 okadaic
 Okamoto/M
@@ -99694,6 +100457,7 @@ oleoyl
 oles
 oleum
 oleyl
+olezarsen
 olfact/V
 olfaction
 olfactism
@@ -99713,6 +100477,7 @@ olfacty/S
 Olga/M
 Olia/M
 olibanum
+oliceridine
 olig
 oligaemia
 oligakisuria
@@ -99818,6 +100583,9 @@ oliguria
 oliguric
 Olimpia/M
 Olin/M
+Olink
+Olinvyk
+olipudase
 olisthe
 Olisthetic
 olisthy
@@ -99861,10 +100629,14 @@ Olmec
 olmeca
 olmesartan
 Olmsted/M
+olokizumab
 ololiuqui
+olomorasib
 olopatadine
 olophonia
+olorofim
 OLP
+olpasiran
 Olpitrichum
 olsalazine
 Olsen/M
@@ -99873,6 +100645,7 @@ Olshevsky
 Olson/M
 Olszewski
 OLT
+olutasidenib
 Olux
 Olva/M
 Olvan/M
@@ -99889,6 +100662,7 @@ olé
 Om.
 om/XN
 omacephalus
+omadacycline
 omagra
 Omaha/SM
 omalgia
@@ -99898,12 +100672,14 @@ omarthritis
 omasal
 omasitis
 omasum
+omaveloxolone
 ombrophobia
 OmbrTdanne
 Ombrédanne/M
 ombudsman/M
 ombudsmen
 Omdurman/M
+omecamtiv
 omega
 omega/MS
 omelet/SM
@@ -99932,10 +100708,12 @@ Omero/M
 omicron
 omicron/MS
 Omiderm
+omidubicel
 Omiganan
 Omigard
 ominous/YP
 ominousness/SM
+Omisirge
 omission/MS
 omit/S
 omitis
@@ -99955,6 +100733,7 @@ Omnicef
 omnifocal
 Omnipaque
 Omnipen
+Omnipod
 omnipotence/SM
 Omnipotent
 omnipotent/SY
@@ -100014,11 +100793,14 @@ omphalus
 oms
 Omsk
 Omsk/M
+Omvoh
 ON
 on/RY
 OnabotulinumtoxinA
 onanism
 onanism/M
+Onapgo
+onasemnogene
 Onassis/M
 onaye
 onc
@@ -100121,6 +100903,7 @@ oneupmanship
 onex
 Onfre/M
 Onfroi/M
+Ongentys
 Onglyza
 ongoing/S
 Onicit
@@ -100147,6 +100930,7 @@ onomatopoetic
 onomatopoiesis
 Onondaga/MS
 onotogeny
+Onpattro
 ONPG
 Onrigin
 onrush/GMS
@@ -100334,10 +101118,12 @@ opaque/GTPYRSD
 opaqueness/SM
 Opaxio
 opcode/MS
+Opdualag
 ope/S
 OPEC
 opeidoscope
 Opel/M
+opelconazole
 open/GJ
 open/YRDJGZTP
 opencast
@@ -100503,7 +101289,9 @@ opian
 opianine
 opiate
 opiate/GMSD
+opicapone
 Opie
+Opill
 opine/XGNSD
 opinion/M
 opinionated/PY
@@ -100686,6 +101474,7 @@ opulus
 Opuntia
 opus/SM
 OPV
+Opzelura
 OR
 or/MY
 ora
@@ -100876,6 +101665,7 @@ oregano/SM
 Oregon/M
 Oregonian/S
 Orel/M
+orelabrutinib
 Orelee/M
 Orelia/M
 Orelie/M
@@ -100893,7 +101683,10 @@ Oreticyl
 orexia
 orexigenic
 orf
+orforglipron
 organ
+organ-chip/S
+organ-on-a-chip
 organ/MS
 organa
 organdie's
@@ -100994,7 +101787,9 @@ orgasm/GSMD
 orgasmic
 orgiastic
 orgotein
+Orgovyx
 orgy/SM
+Oriahnn
 Oriana/M
 Oribasius
 Oriboca
@@ -101058,6 +101853,7 @@ Orlick/M
 orlistat
 Orlon/SM
 Orly/M
+Orlynvah
 ormetoprim
 ormolu/SM
 Ormond's
@@ -101134,6 +101930,7 @@ orris/SM
 ors
 Orsa/M
 orseillin
+Orserdu
 Orsi
 Orsola/M
 Orson/M
@@ -101357,6 +102154,7 @@ OSHA
 Oshawa/M
 Oshkosh/M
 osier/MS
+osilodrostat
 osiris
 Osiris/M
 Osler-Weber-Rendu
@@ -101734,6 +102532,7 @@ OTC
 OTD
 otelixizumab
 Otes
+oteseconazole
 Otha/M
 Othelia/M
 Othella/M
@@ -101779,6 +102578,8 @@ Otodectes
 otodectic
 otodynia
 otoencephalitis
+OTOF
+otoferlin
 Otofoam
 otoganglion
 otogenic
@@ -102078,6 +102879,7 @@ Ovcon
 OVD
 oven/MS
 ovenbird/SM
+oveporexton
 over
 over/YGS
 overabundance/MS
@@ -102557,6 +103359,7 @@ oxcarbazepine
 oxcart/MS
 oxeladin
 oxen/M
+Oxervate
 oxetorone
 oxfendazole
 oxford/MS
@@ -102605,6 +103408,7 @@ oxiperomide
 oxiramide
 oxirane
 Oxistat
+Oxlumo
 oxmetidine
 Oxnard
 oxo
@@ -102771,6 +103575,7 @@ ozaenae
 ozarelix
 Ozark/SM
 Ozelle
+Ozempic
 ozena
 ozenous
 ozocerite
@@ -102797,6 +103602,8 @@ P
 P's
 p's/A
 P(A)
+p-tau181
+p-tau217
 P.C.
 P.D.
 p.m.
@@ -102918,6 +103725,7 @@ Paco
 Paco/M
 paCO2
 Pacorro/M
+pacritinib
 PACSPlus
 pact/SM
 pad/MS
@@ -102956,6 +103764,7 @@ paella/SM
 Paenibacillus
 paeony/M
 PAF
+pafolacianine
 pafuramidine
 pagan/SM
 Paganini/M
@@ -103096,6 +103905,7 @@ palatovaginal
 palatovaginalis
 palatum
 palaver/GSDM
+palazestrant
 pale
 pale/SPY
 paleface/SM
@@ -103251,6 +104061,8 @@ Paloma/M
 Palomar/M
 palomino/MS
 palonosetron
+palopegteriparatide
+palovarotene
 palp/B
 palpable
 palpably
@@ -103280,6 +104092,7 @@ palsy
 palsy/GSDM
 paltriness/SM
 paltry/TRP
+paltusotine
 paludal
 paludicolae
 paludis
@@ -103466,6 +104279,7 @@ pang
 pang/GDMS
 Pangaea/M
 pangenesis
+pangenome/S
 Panglobulin
 panglossia
 pangolin/M
@@ -103540,6 +104354,7 @@ panophthalmia
 panophthalmitis
 panoply/MSD
 panoptic
+PANoptosis
 panorama/MS
 panoramic
 Panorex
@@ -104792,6 +105607,7 @@ Paré/M
 PAS
 pas/S
 Pasadena/M
+PASC
 pascal
 PASCAL
 Pascal's
@@ -105043,6 +105859,8 @@ Patin/M
 patina/SM
 patine
 patio/MS
+patiromer
+patisiran
 Patna/M
 patois/M
 Paton/M
@@ -105069,6 +105887,7 @@ patriotic/U
 patriotically
 patriotism/SM
 patristic/S
+patritumab
 Patrizia/M
 Patrizio/M
 Patrizius/M
@@ -105202,6 +106021,7 @@ paxes
 PAXgene
 Paxil
 Paxipam
+Paxlovid
 Paxon/M
 Paxton/M
 pay/AGSLB
@@ -105230,6 +106050,7 @@ Pb/M
 PBBs
 PBG
 pbi
+PBM
 PBN
 PBS
 PBX
@@ -105265,6 +106086,7 @@ PDQ
 PDR
 PDS
 PDT
+PDUFA
 PDX
 PE
 pea
@@ -105552,6 +106374,7 @@ peevish/YP
 peevishness/SM
 PeeWee's
 peewee/S
+peficitinib
 pefloxacin
 PEFR
 PEG
@@ -105566,6 +106389,7 @@ pegaspargase
 Pegasus/MS
 Pegasys
 pegboard/SM
+pegcetacoplan
 Pegeen/M
 pegfilgrastim
 pegged
@@ -105580,7 +106404,11 @@ pegol
 pegorgotein
 pegoterate
 pegoxol
+pegozafermin
 pegs
+pegulicianine
+pegunigalsidase
+pegvaliase
 pegvisomant
 pegylated
 PEGylated
@@ -105600,6 +106428,8 @@ Pekingese/SM
 pekoe/SM
 Pel/M
 PELA
+pelabresib
+pelacarsen
 pelade
 pelage
 pelagic
@@ -105713,12 +106543,15 @@ Pembroke/M
 pemerid
 pemetrexed
 PEMF
+Pemgarda
 pemirolast
+pemivibart
 pemmican/SM
 pemoline
 pemphigoid
 pemphigus
 pempidine
+pemvidutide
 Pen
 pen/M
 Pen/M
@@ -105731,6 +106564,7 @@ penalized/U
 penalty/MS
 penance/SDMG
 Penapar
+Penbraya
 Penbritin
 penbutolol
 pence/M
@@ -105819,6 +106653,7 @@ penlight/MS
 penman/M
 penmanship/MS
 penmen
+Penmenvy
 Penn
 Penn/M
 Penna
@@ -105851,6 +106686,7 @@ penologist/MS
 penology/MS
 penopubic
 penoscrotal
+penpulimab
 Penrod/M
 penrose
 pens/V
@@ -106209,6 +107045,7 @@ perennial
 perennial/SY
 perennibranchiata
 Perenyi's
+peresolimab
 perestroika/S
 Pereyra
 Perez's
@@ -106236,11 +107073,13 @@ PerFix
 perflation
 perflenapent
 perflubron
+perfluoroalkyl
 perfluoroalkylpolyet
 perfluoroalkylpolyether
 perfluorochemical
 perfluorocyclobutane
 Perfluorohexane
+perfluorohexyloctane
 Perfluoroisobutylene
 Perfluoron
 Perfluorooctanoic
@@ -107180,6 +108019,7 @@ pertrochanteric
 pertubation
 pertucin
 pertucinogena
+Perturb-seq
 perturb/GDS
 perturbans
 perturbation/MS
@@ -107424,6 +108264,7 @@ pf
 Pfaffia
 pfaffii
 Pfannenstiel/M
+PFAS
 Pfc
 PFC
 Pfeiffer's
@@ -107434,6 +108275,8 @@ Pfizer/M
 Pfizerpen
 Pflüger's
 PFO
+PFOA
+PFOS
 Pfrimmer
 PFT
 Pfuhl/M
@@ -107637,6 +108480,7 @@ pharmacoendocrinolog
 pharmacoendocrinology
 pharmacoepidemiology
 pharmacogenetic/S
+pharmacogenomic/S
 Pharmacogenomics
 pharmacognosist
 pharmacognostic/S
@@ -107667,6 +108511,7 @@ pharmacoradiography
 pharmacosiderite
 pharmacotherapeutic/S
 pharmacotherapy
+pharmacovigilance
 pharmacy
 pharmacy/SM
 Pharmacyclics
@@ -108006,6 +108851,7 @@ pheromone
 pheromone/MS
 phetharbital
 phew/S
+PheWAS
 PhG
 phi
 phi/SM
@@ -108601,6 +109447,7 @@ photomultiplier/M
 photomyoclonic
 photomyogenic
 photon
+photon-counting
 photon/MS
 photoncia
 photooxidation
@@ -108628,6 +109475,7 @@ photophthalmia
 photopia
 photopic
 photopigment
+photoplethysmographic
 photoplethysmography
 photoproduct
 photoproduction
@@ -109044,6 +109892,7 @@ piarachnitis
 piarachnoid
 piarhaemia
 piarhemia
+PiaSky
 piaster/MS
 piastrinaemia
 piastrinemia
@@ -109205,9 +110054,11 @@ piezometer
 PIF
 pifanoi
 pifarnine
+Pifeltro
 Piffard
 piffle/MGSD
 Pifithrin
+piflufolastat
 pig/L
 pig/MLS
 pigeon
@@ -109625,6 +110476,7 @@ piroxantrone
 piroxicam
 pirprofen
 Pirquet/M
+pirtobrutinib
 Piry
 pis
 Pisa/M
@@ -109715,6 +110567,7 @@ Pitkin
 pitman/M
 Pitney/M
 Pitocin
+pitolisant
 pitometer
 piton/SM
 Pitres
@@ -109764,6 +110617,7 @@ pivot/DMSG
 pivotal/Y
 pivoting/M
 pivoxil
+Pivya
 pix/DSG
 pixel
 pixel/SM
@@ -110209,6 +111063,7 @@ playtime/SM
 playwright/SM
 playwriting/M
 plaza/SM
+plazomicin
 plea/SM
 plead/ZGJRDS
 pleader/MA
@@ -110481,6 +111336,7 @@ plowmen
 plowshare/MS
 ploy's
 ploy/SCDG
+plozasiran
 PLT
 pluck/SGRD
 plucker/M
@@ -110583,6 +111439,7 @@ plutonism
 plutonium
 plutonium/SM
 pluvial/S
+Pluvicto
 plv&urt
 ply/AZNGRSD
 plyloric
@@ -110596,6 +111453,7 @@ Pm/M
 PMA/S
 PMAC
 PMB
+PMDA
 pMDI
 PME
 PMH
@@ -111364,6 +112222,7 @@ polyethylene/SM
 Polyethyleneimine
 polyferose
 Polyflex
+polyfluoroalkyl
 Polygala
 polygalactia
 polygalacturonase
@@ -111763,6 +112622,7 @@ Pondimin
 pondostatural
 pone/SM
 ponesiatrics
+ponesimod
 pong
 pongee/MS
 Pongidae
@@ -111806,6 +112666,7 @@ pontoon/SMDG
 pontopeduncular
 Pontor
 pontoreticulospinalis
+Ponvory
 pony/DSMG
 ponytail/SM
 pooch/GSDM
@@ -112079,6 +112940,7 @@ positivity
 positrocephalogram
 positron
 positron/SM
+Posluma
 Posner's
 Posner-Schlossman
 Posner/M
@@ -112103,12 +112965,15 @@ possum/MS
 Post
 post's
 post-
+post-acute
+post-exertional
 post/ASDRJG
 Post/M
 postablative
 postabortion
 postabsorption
 postactivation
+postacute
 postage/MS
 postal/S
 postalbumin
@@ -112125,6 +112990,7 @@ postaxial
 postaxillaris
 postaxillary
 postbag/M
+postbiotic/S
 postbox/SM
 postbrachial
 postbranchial
@@ -112520,8 +113386,10 @@ pouter/M
 Povan
 poverty
 poverty/MS
+povetacicept
 Povidine
 povidone
+povorcitinib
 POW
 pow/RZ
 Powassan
@@ -112550,6 +113418,7 @@ pox/GMDS
 poxide
 Poxviridae
 poxvirus
+pozelimab
 Poznan/M
 pp
 PP
@@ -112571,6 +113440,7 @@ PR
 pr.
 Pr/MN
 PRA
+prabotulinumtoxinA
 practicability/S
 practicable/P
 practicably
@@ -112587,6 +113457,7 @@ practitioner
 practitioner/SM
 practolol
 Pradaxa
+prademagene
 Prader
 Prader-Willi
 Pradesh/M
@@ -112633,6 +113504,7 @@ Praktis
 pralatrexate
 pralidoxime
 praline/MS
+pralsetinib
 pram/MS
 PrameGel
 Pramet
@@ -112660,6 +113532,7 @@ Prantal
 PRAS
 praseodymium
 praseodymium/SM
+prasinezumab
 prasterone
 prasugrel
 Pratchett/M
@@ -113086,6 +113959,7 @@ Prelone
 prelude/GMDRS
 preluder/M
 Preludin
+PREM/S
 Premalignant
 premammary
 Premarin
@@ -113462,6 +114336,7 @@ prethrombotic
 prethyroideal
 prethyroidean
 pretibial
+pretomanid
 Pretoria/M
 pretracheal
 pretracheales
@@ -113531,6 +114406,7 @@ Prevnar
 prevoid
 Prevotella
 Prevpac
+Prevymis
 prewar
 prexes
 prey/SMDG
@@ -114185,6 +115061,7 @@ prolonium
 Proloprim
 Proluton
 prolyl
+PROM/S
 Promachlor
 Promacta
 promanide
@@ -114268,6 +115145,7 @@ pronethalol
 prong
 prong/SGMD
 pronghorn/SM
+proning
 pronograde
 pronometer
 pronominalization
@@ -114656,6 +115534,8 @@ proteinuria
 proteinuric
 Protenate
 proteoclastic
+proteogenomic
+proteogenomics
 proteoglycan/S
 Proteoglypha
 proteolipid
@@ -115472,6 +116352,7 @@ psychobiological
 psychobiologist
 psychobiology
 psychobiology/M
+psychobiotic/S
 psychocardiac
 psychocatharsis
 psychochemistry
@@ -115942,6 +116823,7 @@ PulsaVac
 pulse's
 pulse/ADSG
 pulse/ND
+pulsed-field
 pulseless
 pulser
 pulsimeter
@@ -116373,6 +117255,7 @@ pyknosis
 pyknotic
 pyla
 pylar
+Pylarify
 pyle
 Pyle's
 pyle-
@@ -116653,6 +117536,7 @@ pyrometer
 pyrometer/MS
 pyrometry/M
 pyromucic
+pyronaridine
 pyrone
 Pyronil
 pyronin
@@ -116679,6 +117563,7 @@ pyrophosphotransfera
 pyrophosphotransferase
 Pyrophyllite
 pyropoikilocytosis
+pyroptosis
 pyroracemic
 pyroscope
 pyrosis
@@ -116710,6 +117595,7 @@ pyrroline
 pyrrolizidine
 pyrrolnitrin
 pyrroloporphyria
+Pyrukynd
 Pyrus
 pyruvaemia
 pyruvaldehyde
@@ -116762,13 +117648,18 @@ Q10
 q2h
 QA
 Qaddafi/M
+Qalsody
 Qantas/M
 Qatar/M
 QB
 QC
+Qdenga
 QED
+Qelbree
+Qfitlia
 QHS
 Qingdao
+Qinlock
 Qiqihar/M
 QM
 QNS
@@ -116785,6 +117676,7 @@ qty
 qua
 Quaalude
 Quaalude/M
+quabodepistat
 quack
 quack/SDG
 quackery
@@ -117296,11 +118188,13 @@ quixotically
 Quixotism/M
 quiz/M
 Quizalofop
+quizartinib
 quizzed
 quizzer/SM
 quizzes
 quizzical/Y
 quizzing
+Qulipta
 quo/H
 quoad
 quodque
@@ -117325,6 +118219,7 @@ quotidian/S
 quotient/SM
 Qutenza
 QuTnu
+Quviviq
 Quénu
 Qvar
 qwerty
@@ -117888,6 +118783,7 @@ Ralf/M
 Ralfe/M
 Ralgro
 Ralina/M
+ralinepag
 Ralk
 Rall
 rally/GSD
@@ -118289,6 +119185,7 @@ ravishment/SM
 Ravius
 Raviv/M
 Ravocaine
+ravulizumab
 RAW
 raw/PSRYT
 Rawalpindi/M
@@ -118426,6 +119323,7 @@ Reagan/M
 Reagen/M
 reaginic
 real
+real-world
 real/RSTP
 Realgar
 realism's
@@ -118509,6 +119407,7 @@ Rebif
 rebind/G
 rebirth
 rebleed/G
+Reblozyl
 reboil/G
 rebook
 reboot/ZR
@@ -118524,6 +119423,7 @@ rebuking/Y
 rebus
 rebuttal/SM
 rebutting
+Rebyota
 rec
 rec'd
 recalcitrance/SM
@@ -118537,6 +119437,7 @@ recap
 recapitulation
 recappable
 recapping
+Recarbrio
 recast/G
 recd
 recede
@@ -119077,6 +119978,7 @@ regardless/PY
 regather/G
 regatta/MS
 Regaud/M
+regdanvimab
 Regen
 Regen/M
 regency/MS
@@ -119284,6 +120186,7 @@ Rejuvex
 Rekoss
 rel/V
 Rela
+relabotulinumtoxinA
 Relafen
 relapse
 relapse/G
@@ -119306,6 +120209,7 @@ relativist/MS
 relativistic
 relativistically
 relativity/MS
+relatlimab
 relator's
 relatrix
 relax/GZD
@@ -119326,6 +120230,7 @@ release/B
 release/G
 released/U
 releasee
+relebactam
 Relefact
 relent/SDG
 relenting/U
@@ -119374,8 +120279,10 @@ Relpax
 Relprevv
 reluctance/MS
 reluctant/Y
+relugolix
 Relume
 rely/DG
+Relyvrio
 rem
 rem.
 Rem/M
@@ -119410,6 +120317,8 @@ remembrance/MRS
 remembrancer/M
 remercie
 Remeron
+remestemcel
+remibrutinib
 Remicade
 Remifemin
 remifentanil
@@ -119460,6 +120369,7 @@ remoxipride
 Remoxy
 Remsed
 REMstar
+remternetug
 Remune
 remunerate/VNGXSD
 remunerated/U
@@ -119695,6 +120605,7 @@ repositioning
 repositor
 repository
 repository/MS
+repotrectinib
 reprehend/GDS
 reprehensibility/MS
 reprehensible/P
@@ -119741,6 +120652,7 @@ reproof/G
 reproterol
 reprove/R
 reproving/Y
+reproxalap
 reptilase
 reptile
 reptile/SM
@@ -119888,6 +120800,7 @@ resistivity/S
 resistless
 resistor/MS
 resize/G
+resmetirom
 Resol
 resold
 resole/G
@@ -120074,6 +120987,7 @@ retardation/SM
 retarded
 retarder
 retarder/M
+retatrutide
 Retavase
 retch/SDG
 retching
@@ -120090,6 +121004,7 @@ reteplase
 retest/G
 retested
 Retet
+Retevmo
 Retha/M
 rethought
 retia
@@ -120149,6 +121064,7 @@ reticulothelium
 reticulotomy
 reticulum
 reticulum/M
+retifanlimab
 retiform
 Retin
 retina/SM
@@ -120216,6 +121132,7 @@ retributed
 retribution/MS
 retributive
 retrieval
+retrieval-augmented
 retrieval/SM
 retrieve/ZGDRSB
 retriever/M
@@ -120316,6 +121233,7 @@ Retromingent
 retromolar
 retromorphosis
 retromylohyoid
+retron/S
 retronasal
 retropancreatic
 retroparotid
@@ -120406,6 +121324,7 @@ Rev/M
 rev/ZM
 REVA
 Reva/M
+revakinagene
 ReValving
 revanchist
 Revasc
@@ -120504,10 +121423,12 @@ revolutionizer/M
 revolve/BSRDZJG
 revolver/M
 revue/MS
+Revuforj
 revulsant
 revulsion
 revulsion/MS
 revulsive
+revumenib
 revved
 revving
 rewarded/U
@@ -120542,11 +121463,16 @@ Reynier
 Reynold/SM
 Reynolds
 Reynolds'
+Reyvow
+rezafungin
+Rezdiffra
 Rezipas
+Rezlidhia
 rezone
 Rezonic
 Rezulin
 Rezyme
+Rezzayo
 Rf
 RF
 RFA
@@ -121104,6 +122030,7 @@ ridiculous/PY
 ridiculousness/MS
 riding
 riding/M
+ridinilazole
 ridit
 Ridley's
 ridleyi
@@ -121196,6 +122123,7 @@ Rilke/M
 rill/GSMD
 Rilutek
 riluzole
+rilzabrutinib
 rim
 rim/GSMDR
 rima
@@ -121207,6 +122135,7 @@ rimal
 rimantadine
 Rimbaud/M
 rime/MS
+rimegepant
 rimer/M
 rimexolone
 Rimifon
@@ -121285,10 +122214,13 @@ ripping
 ripple/RSDGM
 rippler/M
 ripply/TR
+ripretinib
 ripsaw/GDMS
 riptide/SM
 Risa/M
+risankizumab
 RISC
+risdiplam
 Risdon
 rise
 rise/RSJZG
@@ -121329,6 +122261,7 @@ Ritchie's
 Ritchie/M
 rite/DSM
 Ritgen/M
+ritlecitinib
 ritodrine
 ritonavir
 Ritter-Lyell
@@ -121373,6 +122306,7 @@ Riverview/M
 rivet/GZSRDM
 riveter/M
 riveting/Y
+Rivfloza
 Rivi/M
 Riviera/MS
 Riviere/M
@@ -121500,7 +122434,9 @@ robitussin
 Robles'
 Robles/M
 Robo
+robot-assisted
 robot/MS
+robotic-assisted
 robotic/S
 robotism
 robotize/GDS
@@ -121563,6 +122499,7 @@ Rocky
 Rocky/SM
 rocky/SRTP
 rococo/MS
+Roctavian
 rocuronium
 Rod/M
 rod/S
@@ -121749,9 +122686,11 @@ Romney/M
 Romola/M
 Romona/M
 Romonda/M
+romosozumab
 romp/GSZDR
 romper/M
 Romulus/M
+Romvimza
 Romy/M
 Romycin
 Ron/M
@@ -121818,6 +122757,7 @@ ROP
 ropalocytosis
 rope
 rope/DRSMZG
+ropeginterferon
 roper/M
 roping/M
 ropinirole
@@ -121919,6 +122859,7 @@ roseolous
 roseomonas
 Roser/M
 Rosetta/M
+RoseTTAFold
 rosette
 Rosette/M
 rosette/SDMG
@@ -122144,6 +123085,7 @@ Roxane/M
 Roxanna/M
 Roxanne/M
 Roxanol
+roxaparvovec
 Roxarsone
 roxatidine
 roxetil
@@ -122171,6 +123113,7 @@ Rozalin/M
 Rozamond/M
 Rozanna/M
 Rozanne/M
+rozanolixizumab
 Roze/M
 Rozele/M
 Rozella/M
@@ -122386,6 +123329,7 @@ ruinous/YP
 ruinousness/M
 Ruiz/M
 Rukavina/M
+Rukobia
 RUL
 rule/MZGJDRS
 rule/R
@@ -122491,6 +123435,7 @@ Rusch
 Rusconi's
 Ruscus
 ruse/MS
+rusfertide
 Rush
 rush/DSRGZ
 Rush/M
@@ -122590,10 +123535,13 @@ RWE
 Rwy/M
 RWµCath
 Rx/M
+RxNorm
 Ry/M
 Ryan/M
 Ryann/M
 ryanodine
+Rybelsus
+Rybrevant
 Rycca/M
 Rydberg/M
 Rydelle
@@ -122606,7 +123554,10 @@ rylonitrile
 Rynatan
 Rynatuss
 Ryon/M
+Ryoncil
 Rystan
+Rystiggo
+Rytelo
 Rythmol
 Ryukyu/M
 Ryun/M
@@ -122639,6 +123590,7 @@ Saar/M
 Saathoff's
 Saba/M
 sabadilla
+sabatolimab
 sabbath
 Sabbath/M
 Sabbaths
@@ -122743,6 +123695,7 @@ Sachs
 Sachs'
 Sachs/M
 Sachsse's
+sacituzumab
 sack/GJDRMS
 sackcloth/M
 sackcloths
@@ -123469,6 +124422,7 @@ saphenofemoral
 saphenous
 saphenus
 SAPHFinder
+Saphnelo
 SAPHtrak
 sapid
 sapience/MS
@@ -123548,6 +124502,7 @@ sarcastic
 sarcastically
 sarcina
 sarcinosporon
+Sarclisa
 sarcoblast
 sarcocarcinoma
 sarcocele
@@ -123589,6 +124544,7 @@ sarcomatosum
 sarcomatous
 sarcomere/S
 sarconeme
+sarcopenic
 Sarcophaga
 sarcophagi
 sarcophagid
@@ -123638,6 +124594,7 @@ Sargon/M
 sargramostim
 Sari/M
 sari/MS
+sarilumab
 sarin
 Sarina/M
 Sarine/M
@@ -123651,6 +124608,7 @@ Sarothamnus
 Saroyan/M
 sarpicillin
 Sarracenia
+SARS-CoV-2
 sarsa
 sarsaparilla
 sarsaparilla/MS
@@ -123662,6 +124620,7 @@ Sartorii
 sartorius
 sartorius/M
 Sartre/M
+saruparib
 saruplase
 sarvangasana
 Sascha/M
@@ -123673,6 +124632,7 @@ Sashenka/M
 Sask/M
 Saskatchewan/M
 Saskatoon/M
+SASP
 sass/GDSM
 Sassafras
 sassafras/MS
@@ -123734,6 +124694,7 @@ Sativex
 sativum
 sativus
 satori/SM
+satralizumab
 satrap/SM
 satraplatin
 Satric
@@ -124085,6 +125046,7 @@ scarves/M
 scary/PTR
 SCAT
 scat/S
+scATAC-seq
 scataemia
 Scatchard
 scatemia
@@ -124912,6 +125874,7 @@ scriptwriting/M
 scriven/ZR
 scrivener/M
 scriveners'
+scRNA-seq
 scrobiculate
 scrobiculus
 scrod/M
@@ -125043,6 +126006,7 @@ SDA
 SDC
 SDE
 SDI
+SDOH
 SDP
 SDS
 SDT
@@ -125151,6 +126115,7 @@ sebacic
 Sebastian/M
 Sebastiano/M
 Sebastien/M
+sebetralstat
 sebiagogic
 sebiferous
 Sebileau/M
@@ -125426,8 +126391,10 @@ Seka/M
 sekisanine
 Sela/M
 selachian
+seladelpar
 selaphobia
 Selassie/M
+selatogrel
 Selby/M
 SelCID
 Seldane
@@ -125483,6 +126450,7 @@ Selestina/M
 Seletz
 Seleucid/M
 Seleucus/M
+self-amplifying
 self/G
 self/GPDMS
 selfish/PUY
@@ -125519,15 +126487,19 @@ Sellick
 Sellors
 sellout/MS
 Selma/M
+selpercatinib
 Selsun
 Selter's
+seltorexant
 seltzer/S
+selumetinib
 Selute
 selvage/MGSD
 selvagem
 selves/M
 Selye
 Selznick/M
+semaglutide
 semantic/S
 semantical/Y
 semanticist/SM
@@ -125698,6 +126670,7 @@ Semliki
 Semmelweis
 semolina/SM
 Semon/M
+semorinemab
 Semoxydrine
 sempiternal
 Semple
@@ -125757,11 +126730,13 @@ Senographe
 senography
 Senokot
 Senokotxtra
+senolytic/S
 senopia
 senor/MS
 senora/S
 senorita/S
 SenoScan
+senotherapeutic/S
 sens/DSG
 Sensability
 Sensaire
@@ -125896,7 +126871,9 @@ Sepharose
 Sephira/M
 sepia
 sepia/MS
+sepiapterin
 sepium
+sepofarsen
 Sepoy/M
 Sepp
 Sepracoat
@@ -125976,6 +126953,7 @@ sepulchers/UA
 sepulchral/Y
 seq
 seq.
+seqFISH
 sequard
 sequel
 sequel/MS
@@ -126022,6 +127000,7 @@ Seragen
 seraglio/SM
 Seral
 seralbumin
+seralutinib
 serangitis
 serape/S
 seraph/M
@@ -126201,6 +127180,7 @@ serpiginosa
 serpiginosum
 serpiginous
 serpin/S
+serplulimab
 serpulina
 Serra/M
 Serralene
@@ -126307,10 +127287,12 @@ Seth/M
 Sethotope
 setiferous
 setigerous
+setmelanotide
 Seton/M
 seton/S
 Setopress
 setpoint
+setrusumab
 setschenow's
 setscrew/SM
 sett/BJGZSMR
@@ -126333,6 +127315,7 @@ Seumas/M
 Seurat/M
 Seuss/M
 Seutin
+sevabertinib
 Sevastopol/M
 sevelamer
 seven/H
@@ -126427,6 +127410,7 @@ SF
 SFEMG
 sfericase
 SFP
+SGLT2
 sgot
 sgpt
 Sgt
@@ -127246,6 +128230,7 @@ Sibel/M
 Sibelius/M
 Sibella/M
 Sibelle/M
+sibeprenlimab
 Siberia/M
 Siberian
 Siberian/S
@@ -127567,6 +128552,7 @@ siliceous
 silicic
 silicide/M
 silicious
+silico
 silicoaluminate
 silicoanthracosis
 silicofluoride
@@ -127727,6 +128713,7 @@ Simpson/M
 simpsoni
 Simron
 Sims'
+simufilam
 simul
 Simula/M
 SIMULA/M
@@ -127869,13 +128856,16 @@ sinogram
 sinography
 sinomenine
 Sinonasal
+Sinopharm
 sinopulmonary
 sinospiral
+Sinovac
 sinovaginal
 sinoventricular
 Sinskey
 sinter/D
 sinter/DM
+sintilimab
 Sintrom
 Sinu
 sinuate
@@ -127910,6 +128900,7 @@ Siobhan/M
 Sioux/M
 Siouxie/M
 sip/S
+sipavibart
 siphon
 siphon/DMSG
 Siphona
@@ -127919,6 +128910,7 @@ siphons/U
 siphoviridae
 Siphunculata
 Siphunculina
+siponimod
 sipped
 sipper/SM
 sipping
@@ -128217,6 +129209,7 @@ skunk/GMDS
 Sky/M
 sky/MDRSGZ
 skycap/MS
+Skyclarys
 skydiver/SM
 skydiving/MS
 Skye/M
@@ -128231,9 +129224,12 @@ skylarker/M
 Skyler/M
 skylight/MS
 skyline/MS
+Skyrizi
 skyrocket/GDMS
 skyscrape/RZ
 skyscraper/M
+Skysona
+Skytrofa
 skyward/S
 skywave
 skyway/M
@@ -128515,6 +129511,7 @@ Sly/M
 sly/RTY
 slyke
 Slyke's
+Slynd
 slyness/MS
 Sm/M
 SMA
@@ -128546,6 +129543,7 @@ SmartSite
 SmartSponge
 smartSTIK-MD
 SmartTack
+smartwatch/S
 smartypants
 smash/GZRSD
 smasher/M
@@ -128767,6 +129765,7 @@ snobbish/YP
 snobbishness/S
 snobby/RT
 Snodgrass/M
+SNOMED
 snood/SGDM
 snook/SMRZ
 snooker/GMD
@@ -128827,6 +129826,7 @@ snowsuit/S
 snowy/RTP
 SNRI
 snRNA
+snRNA-seq
 snRNP
 SNS
 snub/SP
@@ -129004,7 +130004,9 @@ softy/SM
 soggily
 sogginess/S
 soggy/RPT
+Sogroya
 Soho/M
+Sohonos
 Sohval
 soigné
 soil/SGMD
@@ -129026,6 +130028,7 @@ Solagé
 Solanaceae
 solanaceous
 solandrine
+solanezumab
 solani
 solanidine
 solanine
@@ -129110,6 +130113,7 @@ solipsism
 solipsism/MS
 solipsist/S
 solipsistic
+Soliqua
 Soliris
 solis
 Solis/M
@@ -129135,6 +130139,7 @@ SoloSite
 Soloviev/M
 solpugid
 Solpugida
+solriamfetol
 Solstar
 solstice/SM
 SolTab
@@ -129193,7 +130198,9 @@ Somalian/S
 somaliensis
 somalin
 Soman
+somapacitan
 somaplasm
+SomaScan
 somasthenia
 somat
 somata
@@ -129267,6 +130274,7 @@ somatotype/GS
 somatotypology
 somatotypy
 somatrem
+somatrogon
 somatropin
 Somatuline
 Somavert
@@ -129350,6 +130358,7 @@ Sondermann/M
 Sondheim/M
 Sondra/M
 sone
+sonelokimab
 Sonenberg/M
 Sones
 song/MS
@@ -129409,6 +130418,7 @@ sonorous/PY
 sonorousness/SM
 SonoRx
 Sonotherapy
+sonrotoclax
 Sontac
 Sontag/M
 Sonus
@@ -129469,6 +130479,7 @@ soprano/SM
 Sopwith/M
 sorafenib
 Soranus
+soravtansine
 sorb/C
 Sorbate
 SorbaView
@@ -129544,15 +130555,21 @@ Sosanna/M
 Sosol
 sot/SM
 Sotacor
+sotagliflozin
 sotalol
+sotatercept
 soterenol
+soticlestat
 Soto/M
 Soto/S
+sotorasib
 Sotos'
 Sotradecol
 Sotret
+sotrovimab
 Sottas
 sottish
+Sotyktu
 sou'wester
 sou/SMH
 soubriquet's
@@ -129667,6 +130684,7 @@ soybean
 soybean/MS
 Soyinka/M
 Soyuz/M
+sozinibercept
 sp.
 Sp/M
 spa/MS
@@ -129760,6 +130778,7 @@ Sparkman/M
 Sparks
 sparky/RT
 sparling/SM
+sparoparvovec
 sparred
 sparrer
 sparring/U
@@ -129767,6 +130786,7 @@ sparrow/MS
 spars/TR
 sparse/YP
 sparseness/S
+sparsentan
 sparsity/S
 sparsomycin
 Sparta/M
@@ -129808,6 +130828,7 @@ spatial
 spatial/Y
 spatiality/M
 spatio
+spatiotemporal
 spatium
 spatted
 spatter/DGS
@@ -130105,6 +131126,8 @@ spermotoxic
 spermotoxin
 Sperry
 Sperry/M
+spesolimab
+Spevigo
 spew/DRGZJS
 spewer/M
 SPF
@@ -130316,6 +131339,7 @@ Spike/M
 spike/S
 spikenard
 spiker/M
+Spikevax
 spikiness/SM
 spiky/PTR
 Spilanthes
@@ -130401,6 +131425,7 @@ spinothalamicus
 spinotransversarius
 spinous
 Spinoza/M
+Spinraza
 spinster/MS
 spinsterhood/SM
 spinsterish
@@ -130910,6 +131935,7 @@ sprain
 sprain/SGD
 sprang/S
 sprat/SM
+Spravato
 sprawl/GSD
 spray/B
 spray/GZSRDM
@@ -131715,6 +132741,7 @@ steatopygia
 steatopygous
 steatorrhea
 steatosis
+steatotic
 stechiology
 stechiometry
 Steclin
@@ -131861,6 +132888,7 @@ Stent's
 stent/DSG
 stentless
 stentorian
+Stentrode
 step/I
 step/MIS
 stepbrother/MS
@@ -132296,6 +133324,7 @@ stippler/M
 stipulate/XNGSD
 stipulation/M
 stir/S
+stiripentol
 Stirling
 Stirling/M
 stirofos
@@ -133465,6 +134494,7 @@ subliminal
 subliminal/Y
 sublimis
 sublimity/SM
+sublineage/S
 sublines
 sublingual
 sublinguales
@@ -134018,6 +135048,7 @@ sugarcoat/GDS
 sugarless
 sugarplum/MS
 sugary/TR
+sugemalimab
 suggest/DRZGVS
 suggester/M
 suggestibility/S
@@ -134274,6 +135305,7 @@ Sulmeprim
 sulnidazole
 suloctidil
 sulodexide
+sulopenem
 sulotroban
 suloxifen
 sulph
@@ -134403,6 +135435,7 @@ sunglass/MS
 sunitinib
 sunk/SN
 sunlamp/S
+Sunlenca
 sunless
 sunlight/MS
 sunlit
@@ -134433,6 +135466,7 @@ suntan/SM
 suntanned
 suntanning
 sunup/MS
+sunvozertinib
 sup/RSZ
 Supartz
 super
@@ -134628,6 +135662,8 @@ supersonic/S
 supersonically
 supersonics/M
 supersphenoid
+superspreader/S
+superspreading
 superstar/SM
 Superstat
 superstition/SM
@@ -135063,6 +136099,7 @@ survivalist/S
 survive/SRDBG
 survivor/MS
 survivorship/M
+survodutide
 Surya/M
 Sus
 susa
@@ -135124,15 +136161,18 @@ sustentacular
 sustentaculum
 Sustiva
 susto
+Susvimo
 Susy/M
 Sutent
 Suteraloy
+sutezolid
 Sutherlan/M
 Sutherland
 Sutherland/M
 SUTI
 sutika
 sutilains
+sutimlimab
 sutler/MS
 Sutralon
 SutraSilk
@@ -135151,6 +136191,7 @@ Sutureloop
 suum
 SUV
 Suva/M
+suvorexant
 Suwanee/M
 Sux
 suxamethonium
@@ -135161,6 +136202,7 @@ Suzanne's
 Suzanne/M
 suzerain/SM
 suzerainty/MS
+suzetrigine
 Suzette/M
 Suzhou/M
 Suzi/M
@@ -135425,6 +136467,7 @@ Sydelle/M
 Sydenham/M
 Sydney
 Sydney/M
+Syfovre
 Sygen
 Sykes/M
 Sylas/M
@@ -135675,6 +136718,7 @@ synarthroses
 synarthrosis
 synathresis
 synathroisis
+synbiotic/S
 sync/SGD
 syncanthus
 SynCardia
@@ -135958,6 +137002,7 @@ syntrophoblast
 syntropic
 syntropy
 synuclein
+synucleinopathy/S
 synulosis
 synulotic
 Synura
@@ -136107,6 +137152,7 @@ t.i.d.
 T.N.T.
 T/G
 t/XTJBG
+T2T
 TA
 Ta/M
 Tab
@@ -136179,6 +137225,7 @@ Taboparesis
 Tabor/M
 tabor/MDGS
 tabourka
+Tabrecta
 Tabriz/SM
 Tabron
 tabula
@@ -136323,6 +137370,8 @@ taenioides
 taeniola
 Taeniorhynchus
 Taenzer
+tafamidis
+tafenoquine
 taffeta/MS
 taffrail/SM
 Taffy/M
@@ -136426,6 +137475,7 @@ talcking
 talcosis
 talcum
 talcum/S
+taldefgrobep
 tale/RSMN
 talebearer/SM
 talent/SMD
@@ -136433,6 +137483,7 @@ talented/M
 talentless
 taler/M
 taleranol
+taletrectinib
 Talfan
 tali
 Talia/M
@@ -136504,8 +137555,10 @@ talose
 talotibial
 talotibiale
 Talotrexin
+talquetamab
 talus
 talus/MS
+Talvey
 Talwin
 Talya/M
 Talyah/M
@@ -136582,6 +137635,7 @@ tandoori/S
 Tandy/M
 Tanespimycin
 Taney/M
+tanezumab
 tang/GSYDM
 tangan
 Tanganyika/M
@@ -136611,6 +137665,7 @@ tangy/RST
 Tanhya/M
 Tani/M
 Tania/M
+taniborbactam
 Tanisha/M
 tanistry
 Tanitansy/M
@@ -136699,6 +137754,7 @@ taphephobia
 taphophilia
 taphophobia
 Tapia's
+tapinarof
 tapinocephalic
 tapinocephaly
 tapioca/MS
@@ -136737,6 +137793,7 @@ tarbadillo
 tarbagan
 Tarbell/M
 Tarceva
+tarcocimab
 tarda
 Tardieu's
 tardily
@@ -136762,6 +137819,7 @@ Tarini's
 Tarinus'
 Tarka
 Tarkington/M
+tarlatamab
 Tarlov/M
 tarmac/S
 tarmacked
@@ -136772,10 +137830,12 @@ tarnish/GDS
 tarnished/U
 taro/MS
 TAROF
+taroretcel
 tarot/MS
 tarp/MS
 tarpapered
 tarpaulin/MS
+Tarpeyo
 tarpon/MS
 Tarra/M
 tarragon/SM
@@ -136908,6 +137968,7 @@ taught/AU
 taunt/ZGRDS
 taunter/M
 taunting/Y
+tauopathy/S
 taupe/SM
 taur
 taurine
@@ -136941,10 +138002,16 @@ tautomerase
 tautomeric
 tautomerism
 tautomycin
+Tauvid
+tavapadon
 tavern/RMS
 taverner/M
+TAVI
 Tavist
+Tavneos
+taVNS
 Tavocept
+TAVR
 Tawara/M
 tawdrily
 tawdriness/SM
@@ -136990,12 +138057,14 @@ Taybi
 Taylor/M
 Taylor/SM
 tazarotene
+tazemetostat
 tazettine
 Tazicef
 Tazidime
 tazobactam
 tazolol
 Tazorac
+Tazverik
 Tb
 TB
 TBA
@@ -137018,6 +138087,7 @@ TCID50
 TCMI
 TCP
 TCR
+TCR-T
 TCS
 TD
 TD50
@@ -137026,6 +138096,7 @@ TDD
 TDE
 TDI
 TDMS
+TDP-43
 TDS
 TdT
 TDTH
@@ -137090,11 +138161,15 @@ teat/MDS
 teatime/MS
 TEB
 Tebamide
+tebentafusp
 TeBG
+tebipenem
 teboroxime
 tebutate
 TECAB
 tecadenoson
+Tecartus
+Tecelra
 tech/D
 Techne
 TechneColl
@@ -137131,10 +138206,12 @@ technophobic
 Technos
 techs
 Techstar
+teclistamab
 teclothiazide
 teclozan
 Tecnis
 Tecnu
+tecovirimat
 tecta
 tectal
 tectalis
@@ -137158,6 +138235,7 @@ tectospinal
 tectospinalis
 tectum
 Tecumseh/M
+Tecvayli
 Teczem
 TED
 Ted/M
@@ -137178,6 +138256,7 @@ Tedmund/M
 Tedra/M
 Tedral
 Tedrigen
+tedromer
 teduglutide
 TEE
 tee/DRSMH
@@ -137227,6 +138306,8 @@ tegmenti
 tegmentospinal
 tegmentum
 Tegopen
+tegoprazan
+tegoprubart
 Tegretol
 Tegrin
 Tegucigalpa/M
@@ -137277,6 +138358,7 @@ telbivudine
 Telcyta
 Teldrin
 tele
+tele-ICU
 telebinocular
 telecanthus
 telecardiogram
@@ -137291,6 +138373,7 @@ telecommunication/M
 telecommute/SRDZGJ
 telecoms
 teleconference/GMJSD
+teleconsultation/S
 telecord
 telecurietherapy
 teledendrite
@@ -137332,6 +138415,7 @@ Telemetrix
 telemetry
 telemetry/MS
 telemnemonike
+telemonitoring
 telencephali
 telencephalic
 telencephalicus
@@ -137372,12 +138456,14 @@ teleprocessing/S
 teleprompter
 TelePrompter/M
 TelePrompTer/S
+telepsychiatry
 teleradiogram
 teleradiography
 teleradiology
 teleradiotherapy
 teleradium
 telereceptor
+telerehabilitation
 telergic
 telergy
 teleroentgenography
@@ -137389,6 +138475,8 @@ telescopically
 telesis
 telestethoscope
 telesthesia
+telestroke
+telesurgery
 telesystolic
 teletactor
 teletext/S
@@ -137412,6 +138500,8 @@ TELFAMAX
 TeliCam
 TeLinde
 teliospore
+telisotuzumab
+telitacicept
 telithromycin
 tell/AGS
 Tell/MR
@@ -137446,6 +138536,7 @@ telokinesis
 telolecithal
 telolemma
 telomere
+telomere-to-telomere
 telomeric
 telopeptide
 telophase
@@ -137570,6 +138661,7 @@ tenancy/MS
 tenant/MDSG
 tenanted/U
 tenantry/MS
+tenapanor
 tenascin
 Tenathan
 tenax
@@ -137789,16 +138881,21 @@ Teodoro/M
 tep.
 Tepanil
 tepee/MS
+Tepezza
 tephromalacia
 tephromyelitis
 tepid
 tepid/YP
 tepidity/S
 tepidness/S
+teplizumab
+Tepmetko
 tepor
+tepotinib
 tepoxalin
 teprenone
 teprotide
+teprotumumab
 tequila/SM
 Tequin
 ter-/I
@@ -137877,6 +138974,7 @@ Teril
 teriparatide
 Terkel/M
 terlipressin
+Terlivaz
 term/MYRDGS
 term/S
 termagant/SM
@@ -138020,6 +139118,7 @@ tesia
 tesicam
 tesimide
 Tesio
+tesirine
 TESL
 tesla
 Tesla/M
@@ -138311,6 +139410,7 @@ tetrathionic
 tetratomic
 Tetratrichomonas
 tetravalent
+tetraxetan
 tetrazoles
 tetrazolium
 Tetrex
@@ -138339,6 +139439,7 @@ Teutonic
 Teva
 Tevdek
 Teveten
+Tevimbra
 tex
 Tex/M
 TeX/M
@@ -138364,7 +139465,9 @@ textured/U
 textus
 tezacitabine
 tezampanel
+tezepelumab
 tezosentan
+Tezspire
 TFAS-C
 TFC
 TFX
@@ -138674,6 +139777,7 @@ Theragran
 Theragyn
 Therakos
 Theramycin
+theranostic/S
 theranostics
 TheraPatch
 therapeusis
@@ -138928,6 +140032,7 @@ Thessaloníki/M
 Thessalus
 Thessaly/M
 theta
+theta-burst
 theta/MS
 thetaiotaomicron
 thew/SM
@@ -139718,6 +140823,7 @@ tiagabine
 Tiamate
 tiamenidine
 Tiamulin
+tianeptine
 Tianjin
 tiapride
 tiaprofenic
@@ -139850,6 +140956,7 @@ tightfisted
 tightness/MS
 tightrope/SM
 tightwad/MS
+TIGIT
 tiglic
 tiglium
 tigogenin
@@ -139863,6 +140970,7 @@ Tijuana/M
 tike's
 Tikhoff
 Tikosyn
+TIL
 Tilade
 Tilda/M
 tilde/MS
@@ -139899,6 +141007,7 @@ tilth/M
 tiltometer
 tiludronate
 tiludronic
+TIM-3
 Tim/MS
 timber
 timber/DMSG
@@ -139910,6 +141019,7 @@ timbre/MS
 timbrel/SM
 timbromania
 Timbuktu/M
+time-in-range
 time/DRSJMYZG
 time/R
 timebase
@@ -140074,6 +141184,7 @@ tiptop/S
 tiqueur
 tiquinamide
 tirade/SM
+tiragolumab
 Tirana's
 Tirane
 tirapazamine
@@ -140099,15 +141210,21 @@ Tirolean/S
 tiron
 Tirosint
 Tirrell/M
+tirumotecan
+tirzepatide
 tis
+tisagenlecleucel
 Tiselius
 Tish/M
 Tisha/M
 tisilfocon
+tislelizumab
+tisotumab
 Tisseel
 Tissierella
 Tissot
 Tissue
+tissue-resident
 tissue/MGSD
 TissueGene-C
 tissues
@@ -140172,7 +141289,10 @@ Titus/M
 Tityus
 tium/K
 tiuxetan
+Tivdak
 tivi
+tivozanib
+tixagevimab
 tixanox
 tixocortol
 tizanidine
@@ -140192,10 +141312,12 @@ TM
 Tm/M
 TMA
 Tmax
+TMEM106B
 TMI
 TMR
 TMST
 TMV
+TMVR
 tn
 TN
 TNF
@@ -140203,6 +141325,7 @@ TNFerade
 tng
 TNKase
 TNM
+TnpB
 tnpk
 Tnrk
 TNS
@@ -140294,6 +141417,7 @@ Toennis
 Toepfer
 toes
 tofenacin
+tofersen
 toffee/SM
 Tofranil
 toft
@@ -140346,6 +141470,7 @@ tolciclate
 told/AU
 Toldt
 tole/MGDS
+tolebrutinib
 Tolectin
 Toledo/SM
 tolerability/IM
@@ -140437,6 +141562,7 @@ Tomes'
 tomfool/M
 tomfoolery/MS
 Tomi/M
+tominersen
 tomite
 Tomkin/M
 Tomlin/M
@@ -140696,6 +141822,7 @@ Tori/M
 Toric
 Torie/M
 Torin/M
+toripalimab
 Torisel
 Torkildsen/M
 torment/GSD
@@ -140904,6 +142031,7 @@ Tova/M
 Tove/M
 Tovell
 Toviaz
+tovorafenib
 tow/DRSZG
 toward/YU
 towardliness/M
@@ -141053,6 +142181,8 @@ Toyoda/M
 Toyota/M
 toyshop
 tozeuri
+tozinameran
+tozorakimab
 TPA
 TPHA
 TPI
@@ -141282,6 +142412,7 @@ trajectory/MS
 Trak
 Tral
 Tralles
+tralokinumab
 tralonide
 tram/MS
 tramadol
@@ -141402,6 +142533,7 @@ transcriptional
 Transcriptionist
 transcriptionist/SM
 Transcriptome
+transcriptomic/S
 transcultural
 transcutaneous
 TransCyte
@@ -141885,6 +143017,7 @@ Trelat
 trellis/GDSM
 treloxinate
 Trelstar
+TREM2
 Tremain/M
 Tremaine/M
 trematic
@@ -141899,6 +143032,7 @@ trembler/M
 trembles
 trembles/M
 trembly
+tremelimumab
 tremella
 tremelloid
 tremellose
@@ -141907,6 +143041,7 @@ tremendousness/M
 tremens
 tremetol
 tremetone
+Tremfya
 Tremin
 tremogram
 tremograph
@@ -142513,12 +143648,14 @@ triiodobenzoic
 triiodoethionic
 triiodomethane
 triiodothyronine
+Trikafta
 trikates
 trike/GMSD
 triketohydrindene
 triketopurine
 trikonsana
 trilabe
+trilaciclib
 Trilafon
 trilaminar
 trilaminate
@@ -142922,11 +144059,13 @@ troctina
 trod/AU
 trodden/UA
 Trode
+Trodelvy
 trodes
 trodusquemine
 Troeltsch
 Troestsch
 troff/MR
+trofinetide
 troglitazone
 troglodyte/MS
 Troglotrema
@@ -142975,9 +144114,11 @@ tronchado
 Trondheim/M
 Tronolane
 Tronothane
+trontinemab
 troop/SRDMZG
 trooper/M
 troopship/SM
+TROP2
 tropaeolin
 tropane
 Tropate
@@ -143164,6 +144305,7 @@ trunk/S
 trunnion/SM
 trunnions
 Truphylline
+Truqap
 Truquant
 trusion/KAI
 Trusopt
@@ -143201,6 +144343,7 @@ try/JGDRSZ
 trying/Y
 Trylon
 Trymex
+Tryngolza
 tryout/MS
 trypan
 trypanid
@@ -143244,6 +144387,7 @@ tryptophanuria
 tryptophyl
 tryst/GDMS
 Trysul
+Tryvio
 Trélat
 Trénaunay
 Tröltsch/M
@@ -143274,6 +144418,7 @@ Tsutsugamushi
 Tswana/M
 Tswett's
 TTL
+TTVR
 tty/M
 ttys
 Tuamine
@@ -143410,6 +144555,7 @@ tubulovillous
 tubulus
 tubus
 tucaresol
+tucatinib
 tuck/GZSRD
 Tuck/RM
 tucked
@@ -143437,6 +144583,7 @@ tugged
 tugging
 Tuinal
 tuition/ISM
+Tukysa
 Tulane/M
 tularaemia
 tularaemia/S
@@ -143449,6 +144596,7 @@ tulear
 Tuli
 tulip
 tulip/SM
+tulisokibart
 Tull/M
 tulle
 tulle/SM
@@ -143878,6 +145026,7 @@ Tylotic
 tyloticum
 Tylox
 tyloxapol
+Tymlos
 Tymon/M
 Tymothy/M
 tymovirus
@@ -144098,6 +145247,7 @@ tzarina's
 TZD
 Tzeltal/M
 tzetze
+Tzield
 Türck's
 Türk/M
 u
@@ -144120,7 +145270,10 @@ ubiquitin
 ubiquitous/YP
 ubiquity/S
 UBIS
+ublituximab
 UBM
+Ubrelvy
+ubrogepant
 UCAC
 Ucayali/M
 Uccello/M
@@ -144205,6 +145358,7 @@ Uldall
 uldazepam
 ule-
 ulectomy
+ulefnersen
 ulegyria
 ulemorrhagia
 ulerythema
@@ -144247,6 +145401,7 @@ Uloric
 ulorrhagia
 ulorrhea
 ulose
+ulotaront
 ulotomy
 ulotrichous
 ulotripsis
@@ -144277,8 +145432,10 @@ ultimo
 ultimobranchial
 ultimum
 Ultiva
+Ultomiris
 ultra
 ultra-
+ultra-hypofractionated
 ultra/S
 ultrabrachycephalic
 Ultracal
@@ -145113,6 +146270,7 @@ unlimited
 unlit
 unliterary
 unloose/G
+Unloxcyt
 unlucky/TP
 unmagnetized/MS
 unmanageably
@@ -145367,6 +146525,7 @@ upland/MRS
 uplander/M
 uplift/SJDRG
 uplifter/M
+Uplizna
 upload/GSD
 Upmark
 upmarket
@@ -145911,6 +147070,7 @@ Urolite
 urolith
 urolithiasis
 urolithic
+urolithin
 urolithology
 urologic
 urological
@@ -146275,6 +147435,9 @@ V.A.C.
 v/ASV
 VA
 Va/M
+Vabomere
+vaborbactam
+Vabysmo
 VAC
 vacancy/MS
 vacant/PY
@@ -146297,6 +147460,7 @@ vaccinator
 vaccinatum
 vaccine
 vaccine/SM
+vaccinee/S
 vaccinia
 vaccinia/M
 vaccinial
@@ -146337,10 +147501,12 @@ vacuum
 vacuum/GSMD
 vacuus
 VAD/S
+vadadustat
 Vademin
 Vader/M
 vadum
 Vaduz/M
+Vafseo
 VAG
 vagabond/DMSG
 vagabondage/MS
@@ -146441,6 +147607,7 @@ Valaree/M
 Valaria/M
 Valarie/M
 Valbazen
+valbenazine
 Valcyte
 valdecoxib
 Valdemar/M
@@ -146510,6 +147677,7 @@ validity/I
 validity/IMS
 validness/MI
 validnesses
+valiltramiprosate
 Valina/M
 valinaemia
 valine
@@ -146544,6 +147712,7 @@ Valma/M
 Valmid
 Valnac
 valnoctamide
+valoctocogene
 Valois/M
 valopicitabine
 valor/MS
@@ -146604,6 +147773,7 @@ valvulotomy
 valyl
 Valéry/M
 vamoose/GSD
+vamorolone
 VAMP
 vamp's
 vamp/ADSG
@@ -146644,6 +147814,7 @@ Vane
 vane/MS
 Vanessa/M
 Vanex
+Vanflyta
 Vang/M
 vanguard/MS
 Vania/M
@@ -146675,6 +147846,7 @@ vanobid
 Vanoxide
 vanquish/RSDGZ
 vanquisher/M
+Vanrafia
 Vansil
 vantage/MS
 Vantex
@@ -146682,6 +147854,7 @@ Vantin
 vanuatu
 Vanuatu
 Vanya/M
+vanzacaftor
 Vanzetti's
 Vanzetti/M
 vapid/PY
@@ -146986,6 +148159,7 @@ vat/SM
 Vata
 Vater/M
 Vatican/M
+vatiquinone
 vatted
 vatting
 vaudeville/SM
@@ -147008,8 +148182,11 @@ VAXes
 VaxGen
 Vaxid
 Vaxigrip
+Vaxneuvance
+Vaxzevria
 Vazquez/M
 vb
+VCA
 VCG
 VCM
 VCR
@@ -147053,6 +148230,7 @@ vecuronium
 Veda/MS
 Vedanta/M
 Vedder's
+vedotin
 VEE
 veejay/S
 veep/S
@@ -147137,12 +148315,14 @@ Veletri
 Velez/M
 veli
 veliform
+veligrotug
 Vella/M
 vellicate/N
 vellosine
 vellum/MS
 vellus
 Velma/M
+velmanase
 Velo
 Velocardiofacial
 velocimetry
@@ -147157,8 +148337,10 @@ Velosef
 Velosulin
 velour's
 Velpeau/M
+Velsipity
 Veltane
 Veltap
+Veltassa
 Veltin
 velum
 velum/M
@@ -147169,6 +148351,7 @@ velveteen/MS
 velvety/RT
 Velásquez/M
 Velázquez
+Vemlidy
 vena
 venacaval
 venacavogram
@@ -147225,6 +148408,7 @@ venezuelensis
 vengeance/MS
 vengeful/APY
 vengefulness/AM
+venglustat
 venial/YP
 venialness/M
 Venice/M
@@ -147411,7 +148595,10 @@ venulitis
 Venus/S
 Venusian/S
 venustus
+Veopoz
+Veozah
 VEP
+vepdegestrant
 VePesid
 vera
 Vera/M
@@ -147493,6 +148680,7 @@ Verheyen/M
 verheyenii
 Verhoeff/M
 Veri/S
+vericiguat
 veridical/Y
 Veridien
 Veriee/M
@@ -147592,6 +148780,7 @@ Veronika/M
 Veronike/M
 Veronique/M
 verotoxin
+Verquvo
 Verr
 Verres
 VerreScope
@@ -147641,6 +148830,7 @@ versing/I
 version/AFI
 version/MFISA
 Versitor
+Versius
 versive/F
 verso/SM
 Verstraeten/M
@@ -147892,6 +149082,7 @@ VHD
 VHDL
 vhf
 VHF
+VHH
 VHS
 VI
 Vi/M
@@ -147919,6 +149110,7 @@ vibe/S
 vibesate
 vibex
 vibices
+vibostolimab
 Vibra
 vibraharp/MS
 Vibramycin
@@ -147960,6 +149152,7 @@ Viburnum
 viburnum/SM
 vic.
 Vic/M
+vicadrostat
 Vical
 Vicam
 vicar/SM
@@ -147994,6 +149187,7 @@ Vicki/M
 Vickie/M
 Vicksburg/M
 Vicky/M
+vicleucel
 Vicodin
 Vicon
 Vicoprofen
@@ -148160,14 +149354,17 @@ villusectomy
 Vilma/M
 Vilnius/M
 viloxazine
+viltolarsen
 Vilyui/M
 Vim
 vim/MS
 vimentin
 Viminate
+Vimkunya
 Vimovo
 Vimpat
 VIMRxyn
+vimseltinib
 Vin/M
 Vina/M
 vinaceus
@@ -148272,6 +149469,7 @@ Viperidae
 viperina
 viperine
 viperous
+vipivotide
 vipoma
 Viprinex
 Viprovex
@@ -148496,6 +149694,7 @@ visited/U
 visiting
 visitor/MS
 visitress
+Visium
 Visken
 Vismed
 visna
@@ -148629,6 +149828,7 @@ vitronectin
 Vitropin
 Vitros
 vitrum
+VITT
 vittles
 Vittoria/M
 Vittorio/M
@@ -148691,6 +149891,7 @@ vivisectionist/SM
 Vivitrol
 Vivitrolt
 Viviyan/M
+Vivjoa
 vivo
 vivo/I
 Vivol
@@ -148702,6 +149903,7 @@ Vivyanne/M
 vixen/SM
 vixenish/Y
 viz
+Vizamyl
 vizier/MS
 vizor's
 vizsla
@@ -148752,6 +149954,7 @@ vociferate/NGXSD
 vociferation/M
 vociferous/YP
 vociferousness/MS
+voclosporin
 VOCO
 vocoded
 vocoder
@@ -148827,6 +150030,7 @@ volition/MS
 volitional
 volitional/Y
 volitionality
+volixibat
 Volkmann's
 Volkov
 Volkswagen/SM
@@ -148909,22 +150113,28 @@ vomitus
 von/C
 Von/M
 Vonda/M
+Vonjo
 Vonnegut/M
 Vonni/M
 Vonnie/M
 Vonny/M
+vonoprazan
 Vontrol
 VOO
 voodoo
 voodoo/GDMS
 voodooism/S
 Voorhoeve
+Voquezna
 voracious/YP
 voraciousness/MS
 voracity/MS
+Voranigo
 Voranil
+vorasidenib
 Voraxaze
 vorbeireden
+voretigene
 voriconazole
 Voronezh/M
 vorozole
@@ -148939,6 +150149,7 @@ vorticosa
 vorticosae
 vorticose
 VoSol
+vosoritide
 Vossius
 Vossius'
 votary/MS
@@ -148955,13 +150166,16 @@ vowel/MS
 vowelled
 vowelling
 vower/M
+Vowst
 vox
 Voxel
 voxels
 Voxsuprine
+Voxzogo
 voyage/GMZJSRD
 voyager/M
 voyageur/SM
+Voydeya
 voyeur
 voyeur/MS
 voyeurism
@@ -148985,6 +150199,7 @@ VSG
 VSV
 VT
 Vt/M
+Vtama
 vTcu
 VTOL
 VTS
@@ -148992,6 +150207,7 @@ VTU
 VTX
 Vueport
 vuerometer
+Vuity
 Vulcan/M
 vulcanization/SM
 vulcanize
@@ -149040,19 +150256,28 @@ vulvorectal
 vulvouterine
 vulvovaginal
 vulvovaginitis
+Vumerity
 Vumon
 VUR
+VUS
 Vusion
+vutrisiran
 vv.
 VVI
 VVT
+Vyalev
+Vyepti
 vying
+Vyjuvek
 Vyky/M
+Vyloy
+Vyndaqel
 Vysis
 Vytex
 Vytone
 Vytorin
 Vyvanse
+Vyvgart
 vécu
 W's
 W/T
@@ -149119,6 +150344,7 @@ wailer/M
 wain/GSDM
 Wain/M
 wainscot/SGJD
+Wainua
 Wainwright/M
 wainwright/SM
 WAIS
@@ -149148,6 +150374,7 @@ waken/SMRDG
 waker/M
 wakeup
 waking
+Wakix
 Waksman
 Waksman/M
 Walbridge/M
@@ -149572,6 +150799,7 @@ Waylon/M
 waymarked
 Wayne/M
 Waynesboro/M
+Wayrilz
 wayside/MS
 Wayson
 wayward/YP
@@ -149714,6 +150942,7 @@ weevil/MS
 weft/SGMD
 Wegener's
 Wegner's
+Wegovy
 Wehamine
 Wehgen
 Wehr/M
@@ -149795,6 +151024,7 @@ welders'
 Weldon/M
 Weldwood/M
 welfare/SM
+Welireg
 Welker's
 welkin/SM
 well
@@ -150553,6 +151783,7 @@ Winona/M
 Winonah/M
 Winooski/M
 Winpred
+Winrevair
 WinRho
 Winsborough/M
 Winscan
@@ -151122,6 +152353,7 @@ wryness/SM
 WSchter
 WSW
 wt
+wtATTR
 Wu/M
 Wuchereria
 Wuchereriasis
@@ -151176,6 +152408,7 @@ Wölfler's
 x
 X
 X's
+Xacduro
 Xact
 Xalatan
 Xalcom
@@ -151259,7 +152492,9 @@ Xavena
 Xavier/M
 Xaviera/M
 XCB
+Xcopri
 Xcytrin
+Xdemvy
 Xe/M
 Xebec/M
 Xeloda
@@ -151273,10 +152508,13 @@ Xeneisol
 xenia
 Xenia/M
 Xenical
+Xenium
 Xenix/M
+Xenleta
 Xenoantigen
 Xenobiotic
 xenobiotics
+xenobot/S
 xenocytophilic
 xenodiagnoses
 xenodiagnosis
@@ -151286,6 +152524,7 @@ xenogenesis
 xenogenic
 xenogenous
 xenograft/S
+xenokidney
 xenology
 xenomania
 xenomenia
@@ -151314,6 +152553,7 @@ Xerac
 xeransis
 xerantic
 xerasia
+Xerava
 Xerecept
 Xero
 xerochelia
@@ -151399,6 +152639,7 @@ XML
 XMP
 XOAN
 Xochipilli/M
+Xofluza
 Xolair
 Xolegel
 xoloitzcuintle
@@ -151408,6 +152649,7 @@ XOR
 XPand
 Xpeedior
 Xpert
+Xphozah
 XPlan
 Xplorer
 XpressO
@@ -151417,6 +152659,7 @@ Xtend-ST
 xterm/M
 XTRAC
 Xubix
+Xultophy
 Xuzhou/M
 xv
 xvi
@@ -151605,6 +152848,7 @@ Yersinieae
 Yersiniosis
 yes/S
 Yesavage
+Yescarta
 Yesenia/M
 yeshiva/SM
 yessed
@@ -151619,6 +152863,7 @@ Yetty/M
 Yevette/M
 Yevtushenko/M
 yew/SM
+Yeztugo
 Yggdrasil/M
 Yiddish/M
 yield
@@ -151687,6 +152932,7 @@ Yorkshire
 Yorkshire/MS
 Yorktown/M
 Yoruba/M
+Yorvipath
 Yosemite/M
 Yoshi/M
 Yoshiko/M
@@ -151768,6 +153014,7 @@ YWCA
 YWHA
 z/TGJ
 Z/X
+Zabdeno
 Zabrina/M
 Zaccaria/M
 Zach/M
@@ -151797,6 +153044,7 @@ Zak/M
 zalcitabine
 zaleplon
 Zaleski's
+zalunfiban
 Zambezi/M
 Zambia/M
 Zambian/S
@@ -151804,6 +153052,7 @@ Zambon
 Zamboni
 Zamenhof/M
 Zametkin
+zamikeracel
 Zamora/M
 Zamyl
 Zan/M
@@ -151815,12 +153064,15 @@ Zandra/M
 Zane/M
 Zaneta/M
 Zang's
+zanidatamab
 zaniness/MS
 Zanosar
 zantac
 Zantryl
+zanubrutinib
 Zanuck/M
 zany/PDSRTG
+zanzalintinib
 Zanzibar/M
 Zao
 zap/S
@@ -151839,8 +153091,12 @@ Zarin
 Zarla/M
 Zarontin
 Zaroxolyn
+zasocitinib
+zastaprazan
 Zaufal/M
+zavegepant
 Zavesca
+Zavzpret
 Zaxopam
 ZDV
 Zea
@@ -151875,6 +153131,7 @@ Zefazone
 Zeffirelli/M
 Zeffix
 Zeftera
+Zegalogue
 Zegerid
 Zein
 zeiosis
@@ -151899,6 +153156,7 @@ Zelma/M
 Zelmac
 Zelnorm
 Zelsmyr
+Zemdri
 Zemplar
 Zemuron
 Zen/M
@@ -151916,11 +153174,13 @@ zenkerism
 zenkerize
 Zennist/M
 Zeno/M
+zenocutuzumab
 Zenpep
 Zensana
 Zenvia
 zeolite
 zeoscope
+Zepbound
 Zephaniah/M
 Zephir
 Zephiran
@@ -151928,11 +153188,13 @@ zephyr/MS
 Zephyrus/M
 Zeppelin's
 zeppelin/SM
+Zepzelca
 Zeranol
 Zerenex
 Zerfus
 Zerit
 Zerk/M
+zerlasiran
 zero/H
 zero/SDHMG
 zeroed/M
@@ -151953,6 +153215,8 @@ zeugma/M
 zeugopodium
 Zeus/M
 Zevalin
+Zevaskyn
+Zevtera
 zeylandica
 zeylanicum
 Zeynek
@@ -151964,6 +153228,7 @@ Zia/M
 Ziac
 Ziagen
 Zibo/M
+ziclumeran
 ziconotide
 Zide
 zidometacin
@@ -151976,6 +153241,7 @@ Ziehl/M
 Zielke
 Ziemssen's
 Zieve
+ziftomenib
 zig
 zigged
 zigging
@@ -151985,17 +153251,22 @@ zigzagged
 zigzagger
 zigzagging
 zigzagplasty
+Ziihera
 Zika
 Zila
 zilantel
+Zilbrysq
 zilch/S
+zilebesiran
 zileuton
 zillion/MS
+zilucoplan
 Zilver
 Zilvia/M
 Zimany's
 Zimbabwe/M
 Zimbabwean/S
+zimberelimab
 zimelidine
 Zimmerlin's
 Zimmerman/M
@@ -152025,6 +153296,7 @@ Zion/SM
 Zionism/MS
 Zionist/MS
 zip/MS
+zipalertinib
 zipp/R
 zipped/U
 zipper/GSDM
@@ -152059,10 +153331,14 @@ Zofran
 zoic
 Zola/M
 Zoladex
+zolbetuximab
+zoldonrasib
 Zole
 zoledronate
 zoledronic
+Zolgensma
 Zolicef
+zoliflodacin
 Zolinza
 Zoll
 Zollie/M
@@ -152102,6 +153378,7 @@ zoned/A
 Zonegran
 zones/A
 zonesthesia
+zongertinib
 zonifugal
 zoning/A
 zonipetal
@@ -152225,6 +153502,7 @@ ZORprin
 Zorro/M
 Zortress
 zorubicin
+Zoryve
 Zosma/M
 zoster
 zosteriform
@@ -152246,6 +153524,7 @@ Zsigmondy's
 Zsigmondy/M
 ZSR
 ZstatFlu
+Ztalmy
 Zubenelgenubi/M
 Zubeneschamali/M
 Zuberella
@@ -152258,6 +153537,7 @@ zuclomiphene
 Zuhr
 Zukor/M
 Zulema/M
+Zulresso
 Zulu/MS
 Zululand/M
 Zuma
@@ -152268,6 +153548,8 @@ Zuni/S
 Zunrisa
 Zuntz's
 Zuplenz
+zuranolone
+Zurzuvae
 Zuzana/M
 Zweifel
 zwieback/MS
@@ -152342,6 +153624,9 @@ zymosan
 zymosterol
 zymurgy/S
 Zynergy
+Zynlonta
+Zynteglo
+Zynyz
 Zyoptix
 Zypan
 Zyprexa

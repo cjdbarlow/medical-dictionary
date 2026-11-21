@@ -24,9 +24,12 @@ Word variations (prefixes, suffixes) require an **affix rule** to be applied. Th
 
 ## Credits
 
-Work from [Glutanimate](https://github.com/Glutanimate), who used:
-* en_US English hunspell dictionary 
-In turn using:  
-    * [OpenMedSpel](http://www.e-medtools.com/openmedspel.html) by e-MedTools
-    * [MTH-Med-Spel-Chek by Rajasekharan N. of MT-Herald](http://mtherald.com/free-medical-spell-checker-for-microsoft-word-custom-dictionary/)
-* en_US Medical Dictionary
+Dictionary has been produced with:
+
+* Work from [Glutanimate](https://github.com/Glutanimate), who used:
+    * en_US English hunspell dictionary 
+    In turn using:  
+        * [OpenMedSpel](http://www.e-medtools.com/openmedspel.html) by e-MedTools
+        * [MTH-Med-Spel-Chek by Rajasekharan N. of MT-Herald](http://mtherald.com/free-medical-spell-checker-for-microsoft-word-custom-dictionary/)
+    * en_US Medical Dictionary
+* Additional contributions from Neema Aghamohammadi
